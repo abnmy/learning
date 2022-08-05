@@ -1,5 +1,7 @@
 # Links to pages
-relative link: [python](python/index.md)
+relative link: 
+- [python](python/index.md)
+- [test](test.md)
 
 ## Welcome to GitHub Pages
 
