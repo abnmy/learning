@@ -1,3 +1,5 @@
+pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
+
 ```python
 
 # https://docs.python.org/3.8/library/stdtypes.html#str.zfill
