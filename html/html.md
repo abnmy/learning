@@ -24,6 +24,8 @@ An element is a component of a webpage. The content is surrounded by tags. Tags 
 <br />
 ```
 
+https://en.wikipedia.org/wiki/HTML_element
+
 ## Quick Templates
 
 ```html
@@ -67,8 +69,11 @@ https://caniuse.com/
 
 ## Block VS Inline
 
-Block elements (e.g. div) may contain block or inline elements.
-Inlinen elements (e.g. span) may contain inline elements
+Block elements (e.g. div, h1, p, ul) may contain block or inline elements. The content of block-level tags take up the entire width of the container.
+
+Inline elements (e.g. span, a, img, input) may contain inline elements.
+
+`display` attribute allow to change element type 
 
 ## Whitespaces
 
@@ -88,7 +93,7 @@ Inlinen elements (e.g. span) may contain inline elements
 ```html
 <img
     src="xyz.png"
-    alt="description"
+    alt="image description for, at least, screen readers"
     srcset=""
     sizes="(max-width: 500px) 15vw, 25vw"
 />
@@ -128,6 +133,17 @@ Inlinen elements (e.g. span) may contain inline elements
     </tfoot>
 </table>
 
+```
+
+## Forms
+
+```html
+<form>
+    <label for="user-name">Name</label>
+    <input type="text" id="user-name" />
+    <textarea></textarea> <!-- no type! -->
+    <input type="submit" value="Click" />
+</form>
 ```
 
 ## Accessibility
