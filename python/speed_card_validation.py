@@ -2,10 +2,12 @@
 Validation of the CB number .
 
 The first function is the fastest.
-Code is compatible with python 2 and python 3.
 
 print('', file=sys.stderr, flush=True)
 """
+ITERATION = 5000
+STMT_TMPL = "$f()"
+
 CARD = C = "4556 7375 8689 9855"  # input
 
 S = (
@@ -26,10 +28,6 @@ A = {'0': 0, '1': 2, '2': 4, '3': 6, '4': 8,
 
 B = {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4,
      '5': 5, '6': 6, '7': 7, '8': 8, '9': 9}
-
-
-def is_divisible_by10(x):
-    return x % 10 == 0
 
 
 def fastest():  # no respect
@@ -67,10 +65,12 @@ def dev():  # direct modulo without lambda
 
 
 def original():
+    _is_divisible_by10 = lambda x: x % 10 == 0
+
     card = CARD.replace(' ', '')
     odd = (S[int(d)] for d in card[::2])
     even = (int(d) for d in card[1::2])
-    return "YES" if is_divisible_by10(sum(odd)+sum(even)) else "NO"
+    return "YES" if _is_divisible_by10(sum(odd)+sum(even)) else "NO"
 
 
 def most_vote_on_codingame():
@@ -106,34 +106,3 @@ def dev2():
         for d in card[1::2]
     )
     return "NO" if (sum(odd) + sum(even)) % 10 else "YES"
-
-
-if __name__ == "__main__":
-    import timeit
-    NUMBER = 50000
-
-    FUNCTIONS = (
-        "fastest",
-        "no_respect_bis",
-        "monster",
-        "dev",
-        "original",
-        "most_vote_on_codingame",
-        "dev3",
-        "dev2",
-    )
-
-    # Run
-    times = []
-    for function in FUNCTIONS:
-        stmt = "%s()" % function
-        setup = "from __main__ import %s" % function
-        time = timeit.timeit(stmt, setup, number=NUMBER)
-
-        times.append(time)
-
-    # Display results
-    for function, time in zip(FUNCTIONS, times):
-        result = "time %s: %.3f" % (function, time)
-
-        print(result)

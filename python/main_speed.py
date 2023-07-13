@@ -19,15 +19,14 @@ def loop(functions_list, stmt_tmpl, setup_tmpl, number):
 
 
 if __name__ == "__main__":
-    # import any_product_sum
 
-    # loop(
-    #     getmembers(any_product_sum, isfunction), 
-    #     Template(any_product_sum.STMT_TMPL), 
-    #     Template(any_product_sum.SETUP_TMPL), 
-    #     any_product_sum.ITERATION
-    #     )
+    for module_name in filter(Path.is_file, Path(".").glob("speed*.py")):
+        print(">>", module_name)
+        speed_module = __import__(module_name.stem)
 
-    pass#print(Path("."))
-    # for entry in filter(Path.is_file, Path(".").glob("*.py")):
-    #     print(entry)
+        loop(
+            getmembers(speed_module, isfunction), 
+            Template(speed_module.STMT_TMPL), 
+            Template(f"from {module_name.stem} import $f"), 
+            speed_module.ITERATION
+        )

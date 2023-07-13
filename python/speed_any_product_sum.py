@@ -4,7 +4,6 @@ Test if a given value can be obtained by adding a number from each list.
 from itertools import product
 
 ITERATION = 100000
-SETUP_TMPL = f"from {__name__} import $f"
 STMT_TMPL = "$f([1,2,3,4],[10,20,30,40],42)"
 
 
