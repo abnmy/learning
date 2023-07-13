@@ -15,13 +15,22 @@ URL, Universal Resource Locator,
 An element is a component of a webpage. The content is surrounded by tags. Tags could have one or several attributes.
 
 ```html
-<div attribute="xyz" >  <!-- opening tag -->
-    content
-</div> <!-- closing tag -->
+<!-- HTML comment -->
 
-<img src="picture.jpg" size="150px" /> <!-- auto closing tag -->
+<!-- opening / closing tag, the vast majority -->
+<div> </div>
+<h1> </h1>
+<p> </p>
+<span> </span>
 
+<!-- auto closing tag -->
+<input>
 <br />
+
+<!-- examples -->
+<div attribute="attribute_value" >This sentence will be displayed in the web browser.</div>
+
+<img src="picture.jpg" size="150px" />
 ```
 
 https://en.wikipedia.org/wiki/HTML_element
