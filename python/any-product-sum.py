@@ -30,16 +30,14 @@ if __name__ == "__main__":
     )
 
     # Run
-    times = []
+    results = []
     for function in FUNCTIONS:
         stmt = "%s([1,2,3,4],[10,20,30,40],42)" % function
         setup = "from __main__ import %s" % function
         time = timeit.timeit(stmt, setup, number=NUMBER)
 
-        times.append(time)
+        results.append((funcion, time))
 
     # Display results
-    for function, time in zip(FUNCTIONS, times):
-        result = "time %s: %.3f" % (function, time)
-
-        print(result)
+    for function, time in results:
+        print("time %s: %.3f" % (function, time))
