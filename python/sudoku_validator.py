@@ -1,6 +1,7 @@
 from itertools import chain
 
-SAMPLE="""
+
+SUDOKU_GRID_SAMPLE="""
 1 9 8 7 6 5 4 3 2
 7 6 5 4 3 2 1 8 9
 4 3 2 1 9 8 6 5 7
@@ -12,21 +13,16 @@ SAMPLE="""
 8 5 9 2 7 4 3 6 1
 """
 
+# A valid sudoku set must contains nine elements from 1 to 9
 VALID_SUDOKU_SET = frozenset(range(1,10))
 
 
-def group_by3(iterable, n=3):
-    # The left-to-right evaluation order of the iterables is guaranteed.
-    # This makes possible an idiom for clustering a data series into n-length groups using zip(*[iter(s)]*n).
-    # return (iterable[:3], iterable[3:6], iterable[6:])
-
-    return zip(* [iter(iterable)] * n)
-
-
 def is__valid_sudoku_set(sudoku_set) -> bool:
-    # Should contains nine elements from 1 to 9
+    return set(sudoku_set) == VALID_SUDOKU_SET  
 
-    return set(sudoku_set) == VALID_SUDOKU_SET
+
+def group_by3(iterable, n=3):
+    return zip(* [iter(iterable)] * n)  # iterable[:3], iterable[3:6], iterable[6:]
 
 
 def is__complete(grid) -> bool:
@@ -48,8 +44,10 @@ def is__complete(grid) -> bool:
     return all(map(is__valid_sudoku_set, chain(rows, columns, squares)))
 
 
-# Convert nine rows in sudoku grid
-# sudoku_grid = (map(int, input().split()) for _ in range(9))
-sudoku_grid = (map(int, row.split()) for row in SAMPLE.strip().split('\n'))
+if __name__ = "__main__":
+    # Convert nine rows in sudoku grid
+    # sudoku_grid = (map(int, input().split()) for _ in range(9))
 
-print(is__complete(sudoku_grid))
+    sudoku_grid = (map(int, row.split()) for row in SUDOKU_GRID_SAMPLE.strip().split('\n'))
+
+    print(is__complete(sudoku_grid))
