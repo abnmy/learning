@@ -20,13 +20,13 @@ def loop(functions_list, stmt_tmpl, setup_tmpl, number):
 
 if __name__ == "__main__":
 
-    for module_name in filter(Path.is_file, Path(".").glob("speed*.py")):
+    for module_name in filter(Path.is_file, Path(".").glob("speed_*.py")):
         print(">>", module_name)
         speed_module = __import__(module_name.stem)
 
         loop(
-            getmembers(speed_module, isfunction), 
-            Template(speed_module.STMT_TMPL), 
-            Template(f"from {module_name.stem} import $f"), 
-            speed_module.ITERATION
+            functions_list=getmembers(speed_module, isfunction),
+            stmt_tmpl=Template(speed_module.STMT_TMPL),
+            setup_tmpl=Template(f"from {module_name.stem} import $f"),
+            number=speed_module.ITERATION
         )
