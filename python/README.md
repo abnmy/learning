@@ -1,3 +1,20 @@
+# Python
+
+## projects
+
+* FastAPI: https://github.com/tiangolo/fastapi
+* pytest: https://github.com/pytest-dev/pytest
+* Poetry: https://github.com/python-poetry/poetry
+* asdf: https://github.com/asdf-vm/asdf
+* SQLAlchemy: https://github.com/sqlalchemy/sqlalchemy
+* Pipenv: https://github.com/pypa/pipenv
+* Scrapy: https://github.com/scrapy/scrapy
+* More Itertools: https://github.com/more-itertools/more-itertools
+* rich: https://github.com/Textualize/rich
+* PyO3: https://github.com/PyO3/pyo3
+
+## others
+
 pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
 
 ```python
