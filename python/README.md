@@ -1,19 +1,29 @@
 # Python
 
-## projects
+## Projects
+
+### Dev
+
+* asdf: https://github.com/asdf-vm/asdf
+* More Itertools: https://github.com/more-itertools/more-itertools
+* Pipenv: https://github.com/pypa/pipenv
+* Poetry: https://github.com/python-poetry/poetry
+
+### Framework
 
 * FastAPI: https://github.com/tiangolo/fastapi
-* pytest: https://github.com/pytest-dev/pytest
-* Poetry: https://github.com/python-poetry/poetry
-* asdf: https://github.com/asdf-vm/asdf
-* SQLAlchemy: https://github.com/sqlalchemy/sqlalchemy
-* Pipenv: https://github.com/pypa/pipenv
-* Scrapy: https://github.com/scrapy/scrapy
-* More Itertools: https://github.com/more-itertools/more-itertools
-* rich: https://github.com/Textualize/rich
 * PyO3: https://github.com/PyO3/pyo3
+* pytest: https://github.com/pytest-dev/pytest
+* SQLAlchemy: https://github.com/sqlalchemy/sqlalchemy
 
-## others
+### Tool
+
+* pyCirclize: https://github.com/moshi4/pyCirclize
+* rich: https://github.com/Textualize/rich
+* Scalene: https://github.com/plasma-umass/scalene
+* Scrapy: https://github.com/scrapy/scrapy
+
+## XYZ
 
 pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
 
