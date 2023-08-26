@@ -16,17 +16,17 @@ RANDOM_TEXT = TEXT_TO_REPLACE+TEXT*1000
 def f1():
     _ = RANDOM_TEXT.replace(TEXT_TO_REPLACE, "")
     
-def f2():
+def f1b():
     _ = RANDOM_TEXT.replace(TEXT_TO_REPLACE, "", 1)
+
+def f2():
+    _ = re.sub(TEXT_TO_REPLACE, "", RANDOM_TEXT)
+
+def f2b():
+    _ = re.sub(TEXT_TO_REPLACE, "", RANDOM_TEXT, 1)
 
 def f3():
     _ = PATTERN.sub("", RANDOM_TEXT)
 
-def f3bis():
+def f3b():
     _ = PATTERN.sub("", RANDOM_TEXT, 1)
-
-def f4():
-    _ = re.sub(TEXT_TO_REPLACE, "", RANDOM_TEXT)
-
-def f4bis():
-    _ = re.sub(TEXT_TO_REPLACE, "", RANDOM_TEXT, 1)
