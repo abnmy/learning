@@ -18,6 +18,7 @@
 
 ### Tool
 
+* CleverCSV: https://github.com/alan-turing-institute/CleverCSV
 * pyCirclize: https://github.com/moshi4/pyCirclize
 * rich: https://github.com/Textualize/rich
 * Scalene: https://github.com/plasma-umass/scalene
