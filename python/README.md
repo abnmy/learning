@@ -11,6 +11,9 @@
 
 ### Framework
 
+* Django: https://github.com/django/django
+* django-ninja: https://github.com/vitalik/django-ninja
+* django-rest-framework: https://github.com/encode/django-rest-framework
 * FastAPI: https://github.com/tiangolo/fastapi
 * PyO3: https://github.com/PyO3/pyo3
 * pytest: https://github.com/pytest-dev/pytest
