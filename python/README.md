@@ -15,7 +15,7 @@
 * django-ninja: https://github.com/vitalik/django-ninja
 * django-rest-framework: https://github.com/encode/django-rest-framework
 * FastAPI: https://github.com/tiangolo/fastapi
-* PyO3: https://github.com/PyO3/pyo3
+* PyO3: https://github.com/PyO3/pyo3 - https://pyo3.rs/
 * pytest: https://github.com/pytest-dev/pytest
 * SQLAlchemy: https://github.com/sqlalchemy/sqlalchemy
 
