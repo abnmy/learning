@@ -4,7 +4,8 @@
 
 ### Dev
 
-* bun: https://github.com/oven-sh/bun
+* bun: https://github.com/oven-sh/bun - https://bun.sh/
+* esbuild (bundler): https://github.com/evanw/esbuild - https://esbuild.github.io/
 
 ### Framework
 

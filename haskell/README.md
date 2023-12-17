@@ -1,3 +1,7 @@
+# Haskell
+
+## Code example
+
 ```haskell
 -- single line comment
 {- multi line comment

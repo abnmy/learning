@@ -1,5 +1,9 @@
 # IDE
 
+# VSCode
+
+* VSCodium: https://github.com/VSCodium/vscodium - https://vscodium.com/
+
 ## Tutos
 
 * FCC VS Code Tutorial – Become More Productive (6h) - https://www.youtube.com/watch?v=heXQnM99oAI

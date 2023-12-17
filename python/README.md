@@ -5,6 +5,7 @@
 ### Dev
 
 * asdf: https://github.com/asdf-vm/asdf
+* black: https://github.com/psf/black - https://black.readthedocs.io/en/stable/
 * More Itertools: https://github.com/more-itertools/more-itertools
 * Pipenv: https://github.com/pypa/pipenv
 * Poetry: https://github.com/python-poetry/poetry
@@ -14,7 +15,6 @@
 * Django: https://github.com/django/django
 * django-ninja: https://github.com/vitalik/django-ninja
 * django-rest-framework: https://github.com/encode/django-rest-framework
-* FastAPI: https://github.com/tiangolo/fastapi
 * PyO3: https://github.com/PyO3/pyo3 - https://pyo3.rs/
 * pytest: https://github.com/pytest-dev/pytest
 * SQLAlchemy: https://github.com/sqlalchemy/sqlalchemy
@@ -22,9 +22,9 @@
 ### Tool
 
 * CleverCSV: https://github.com/alan-turing-institute/CleverCSV
-* pyCirclize: https://github.com/moshi4/pyCirclize
+* pyCirclize (charts): https://github.com/moshi4/pyCirclize - https://moshi4.github.io/pyCirclize/
 * rich: https://github.com/Textualize/rich
-* Scalene: https://github.com/plasma-umass/scalene
+* Scalene (profiler): https://github.com/plasma-umass/scalene
 * Scrapy: https://github.com/scrapy/scrapy
 
 ## XYZ
