@@ -4,22 +4,22 @@
 
 ### Dev
 
-* bun: https://github.com/oven-sh/bun - https://bun.sh/
-* esbuild (bundler): https://github.com/evanw/esbuild - https://esbuild.github.io/
+* https://github.com/oven-sh/bun - https://bun.sh/
+* https://github.com/evanw/esbuild - https://esbuild.github.io/
 
 ### Framework
 
-* appwrite: https://github.com/appwrite/appwrite - https://appwrite.io/
-* astro: https://github.com/withastro/astro
-* fresh: https://github.com/denoland/fresh
-* qwik: https://github.com/BuilderIO/qwik
-* redwood: https://github.com/redwoodjs/redwood - https://redwoodjs.com/
+* https://github.com/appwrite/appwrite - https://appwrite.io/
+* https://github.com/withastro/astro - https://astro.build/
+* https://github.com/denoland/fresh
+* https://github.com/BuilderIO/qwik
+* https://github.com/redwoodjs/redwood - https://redwoodjs.com/
 
 ### Framework Front
 
-* solid: https://github.com/solidjs/solid - https://www.solidjs.com/
-* svelte: https://github.com/sveltejs/svelte
+* https://github.com/solidjs/solid - https://www.solidjs.com/
+* https://github.com/sveltejs/svelte - https://svelte.dev/
 
-### Tool
+### 3D
 
-* Babylon.js (rendering engine): https://github.com/BabylonJS/Babylon.js
+* https://github.com/BabylonJS/Babylon.js
