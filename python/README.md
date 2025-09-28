@@ -1,35 +1,43 @@
 # Python
 
-## Projects
+## Dev Tools
 
-### Dev
+* https://github.com/psf/black — Code Formatter
+* https://github.com/more-itertools/more-itertools
+* https://github.com/PyO3/pyo3 — Rust bindings
+* https://github.com/pytest-dev/pytest
+* https://github.com/sqlalchemy/sqlalchemy — ORM
 
-* asdf: https://github.com/asdf-vm/asdf
-* black: https://github.com/psf/black - https://black.readthedocs.io/en/stable/
-* More Itertools: https://github.com/more-itertools/more-itertools
-* Pipenv: https://github.com/pypa/pipenv
-* Poetry: https://github.com/python-poetry/poetry
-
-### Framework
-
-* Django: https://github.com/django/django
-* django-ninja: https://github.com/vitalik/django-ninja
-* django-rest-framework: https://github.com/encode/django-rest-framework
-* PyO3: https://github.com/PyO3/pyo3 - https://pyo3.rs/
-* pytest: https://github.com/pytest-dev/pytest
-* SQLAlchemy: https://github.com/sqlalchemy/sqlalchemy
-
-### Tool
-
-* CleverCSV: https://github.com/alan-turing-institute/CleverCSV
-* pyCirclize (charts): https://github.com/moshi4/pyCirclize - https://moshi4.github.io/pyCirclize/
-* rich: https://github.com/Textualize/rich
-* Scalene (profiler): https://github.com/plasma-umass/scalene
-* Scrapy: https://github.com/scrapy/scrapy
-
-## XYZ
+### install/venv
 
 pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
+
+* https://github.com/asdf-vm/asdf
+* https://github.com/pypa/pipenv
+* https://github.com/python-poetry/poetry
+* 
+### typing — https://docs.python.org/3/library/typing.html
+
+* https://github.com/python/mypy
+* https://github.com/microsoft/pyright
+* https://github.com/facebook/pyre-check (obsolete)
+* https://github.com/facebook/pyrefly
+
+### framework
+
+* https://github.com/django/django
+  * https://github.com/vitalik/django-ninja — API
+  * https://github.com/encode/django-rest-framework — API
+
+## Apps
+
+* https://github.com/alan-turing-institute/CleverCSV
+* https://github.com/moshi4/pyCirclize — Circular visualization
+* https://github.com/Textualize/rich — formatting in the terminal
+* https://github.com/plasma-umass/scalene — profiler
+* https://github.com/scrapy/scrapy — web scraping
+
+## Examples
 
 ```python
 
