@@ -4,6 +4,17 @@ CSS, Cascading Style Sheet
 
 **note :** browsers have a default stylesheet > [reset](https://en.wikipedia.org/wiki/Reset_style_sheet) ?
 
+## Resources
+
+* https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+* https://www.quackit.com/css/at-rules/css_bottom-right-corner_at-rule.cfm
+* https://css-tricks.com/
+* https://defensivecss.dev/
+* https://gameaccessibilityguidelines.com/
+* https://speakerdeck.com/jonrohan/githubs-css-performance?slide=91
+* https://nipponcolors.com/#kokiake
+* https://github.com/microsoft/fast
+
 ## Anatomy
 
 ```css
