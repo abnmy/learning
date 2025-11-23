@@ -1,3 +1,43 @@
+# VSCode
+
+* VSCodium: https://github.com/VSCodium/vscodium - https://vscodium.com/
+
+## Tutos
+
+* FCC VS Code Tutorial – Become More Productive (6h) - https://www.youtube.com/watch?v=heXQnM99oAI
+* Exploring the Dev Container Ecosystem - https://www.youtube.com/watch?v=AVVGGe_zQkc
+* How to develop like a Senior Software Engineer - https://www.youtube.com/watch?v=FxXyoRyzxoU
+* Working with Multiple Dev Containers in VS Code - https://www.youtube.com/watch?v=bVmczgfeR5Y
+
+## Launching from the command line
+
+open command palette, then search: `shell command` 
+
+## RegEx
+
+Find and Replace
+```
+(\w+)
+"$1",
+```
+
+# VIM
+
+https://en.wikipedia.org/wiki/Vim_(text_editor)
+
+```
+" .vimrc example
+"" double quote should be used to comment working code
+
+set number
+set relativenumber
+set tabstop=4
+set shiftwidth=4
+set autoindent
+set mouse=a
+colorscheme slate
+```
+
 .  repeat the last command
 :reg  register
 
@@ -86,4 +126,3 @@ P: before
 # (v)isual mode
 
 # CTRL + v - visual block mode - column mode
-

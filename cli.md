@@ -1,3 +1,18 @@
+```shell
+# .bashrc examples
+
+# personal configuration should be added in a separate file
+if [ -f ~/.bash_config ]; then
+. ~/.bash_config
+fi
+
+# >> .bash_config
+# Add time stamp to history
+# see strftime documentation for other formatting options
+# the last space allows to add a space with the content - this is not a typo :)
+HISTTIMEFORMAT="%F %T %z $ "
+```
+
 cat FILE
 
 diff FILE1 FILE2
@@ -68,8 +83,10 @@ tail  # last 10th lines
 
 date
 
-> output  # redirection - replace content of output
+```shell
+> output   # redirection - replace content of output
 >> output  # append content to output
+```
 
 cat  # conCATenate - print the entire file(s)
 cat f1 f2 > output
