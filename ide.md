@@ -1,6 +1,6 @@
 # VSCode
 
-* VSCodium: https://github.com/VSCodium/vscodium - https://vscodium.com/
+* vscodium - [github repo](https://github.com/VSCodium/vscodium)
 
 ## Tutos
 

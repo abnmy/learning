@@ -9,7 +9,6 @@
 ## Tools
 
 * Uptime Kuma: https://github.com/louislam/uptime-kuma - https://uptime.kuma.pet/
-* SigNoz (alternative to DataDog): https://github.com/SigNoz/signoz - https://signoz.io/
 
 ## Grafana / Loki
 

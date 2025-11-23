@@ -7,6 +7,7 @@
 * https://github.com/PyO3/pyo3 — Rust bindings
 * https://github.com/pytest-dev/pytest
 * https://github.com/sqlalchemy/sqlalchemy — ORM
+* seleniumbase - [github repo](https://github.com/seleniumbase/SeleniumBase) - a browser automation framework
 
 ### install/venv
 
