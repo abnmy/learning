@@ -19,10 +19,9 @@ pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
 * 
 ### typing — https://docs.python.org/3/library/typing.html
 
-* https://github.com/python/mypy
-* https://github.com/microsoft/pyright
-* https://github.com/facebook/pyre-check (obsolete)
-* https://github.com/facebook/pyrefly
+* mypy - [github repo](https://github.com/python/mypy)
+* pyright - [github repo](https://github.com/microsoft/pyright)
+* pyrefly - [github repo](https://github.com/facebook/pyrefly) - python type checker #rust replacement for pyre-check
 
 ### framework
 

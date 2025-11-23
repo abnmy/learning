@@ -14,6 +14,7 @@
 * https://github.com/denoland/fresh
 * https://github.com/BuilderIO/qwik
 * https://github.com/redwoodjs/redwood - https://redwoodjs.com/
+* zod - [github repo](https://github.com/colinhacks/zod) - schema validation
 
 ## Framework Front
 

@@ -1,4 +1,6 @@
+* certbot - [github repo](https://github.com/certbot/certbot) - client that fetches a certificate from Let’s Encrypt
 * diagrams - [github repo](https://github.com/mingrammer/diagrams) - diagram as Code for prototyping cloud system architectures
+* helm - [github repo](https://github.com/helm/helm) - kubernetes package manager
 * k6 - [github repo](https://github.com/grafana/k6) - load testing
 * osv scanner - [github repo](https://github.com/google/osv-scanner) - vulnerability scanner
 * pulumi - [github repo](https://github.com/pulumi/pulumi) - Infrastructure as Code
