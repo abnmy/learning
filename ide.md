@@ -1,6 +1,8 @@
 # VSCode
 
+* vscode-hacker-typer - [github repo](https://github.com/jevakallio/vscode-hacker-typer) - vscode extension
 * vscodium - [github repo](https://github.com/VSCodium/vscodium)
+* zasper - [github repo](https://github.com/zasper-io/zasper) - IDE for Jupyter notebooks
 
 ## Tutos
 
