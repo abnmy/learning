@@ -1,5 +1,6 @@
 * awesome design patterns - [github repo](https://github.com/DovAmir/awesome-design-patterns) - curated list
 * awesome hacking - [github repo](https://github.com/Hack-with-Github/Awesome-Hacking) - curated list
+* awwesome wpo - [github repo](https://github.com/davidsonfellipe/awesome-wpo) - web performance optimization curated list
 * city-roads - [github repo](https://github.com/anvaka/city-roads) - render every single road
 
 ## ai
@@ -16,6 +17,7 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 
 * aegis - [github repo](https://github.com/beemdevelopment/Aegis) - 2FA app
 * gallery - [github repo](https://github.com/IacobIonut01/Gallery) - built with Jetpack Compose #foss
+* localsend - [github repo](https://github.com/localsend/localsend) - alternative to AirDrop
 * newpipe - [github repo](https://github.com/TeamNewPipe/NewPipe) - lightweight streaming front-end
 * weather master - [github repo](https://github.com/PranshulGG/WeatherMaster)
 
@@ -34,6 +36,7 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * carbon - [github repo](https://github.com/carbon-app/carbon) - code screenshots
 * ghostty - [github rpeo](https://github.com/ghostty-org/ghostty) - cross-platform terminal emulator that uses platform-native UI and GPU acceleration
 * himalaya - [github repo](https://github.com/pimalaya/himalaya) - email manager
+* httpie - [github repo](https://github.com/httpie/cli) - HTTP client
 * kitty - [github repo](https://github.com/kovidgoyal/kitty) - GPU based terminal emulator
 * terminals-are-sexy - [github repo](https://github.com/k4m4/terminals-are-sexy) - curated list
 * tmux - [github repo](https://github.com/tmux/tmux) - terminal multiplexer
@@ -53,12 +56,15 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * spacedrive - [github repo](https://github.com/spacedriveapp/spacedrive) - cross-platform file explorer #rust
 * stirling PDF - [github repo](https://github.com/Stirling-Tools/Stirling-PDF) - toolbox for PDF
 * syncthing - [github repo](https://github.com/syncthing/syncthing) - continuous file synchronization
+* TechEmpower project - [github repo](https://github.com/TechEmpower/FrameworkBenchmarks)
 * wsl - [github repo](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 
 ## dev
 
 * asciiflow - [github repo](https://github.com/lewish/asciiflow) - drawing ASCII diagrams
 * brew - [github repo](https://github.com/Homebrew/brew) - package manager
+* cosmopolitan - [github repo](https://github.com/jart/cosmopolitan) - a POSIX-approved polyglot format
+* delta - [github repo](https://github.com/dandavison/delta) - syntax-highlighting pager for git, diff, grep
 * dragonfly - [github repo](https://github.com/dragonflydb/dragonfly) - alternative to redis
 * navi - [github repo](https://github.com/denisidoro/navi) - interactive cheatsheet
 * playwright - [github repo](https://github.com/microsoft/playwright) - framework for web testing and automation
@@ -70,6 +76,7 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 
 * bazzite - [github repo](https://github.com/ublue-os/bazzite) - a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming
 * godot - [github repo](https://github.com/godotengine/godot) - cross-platform 2D and 3D game engine
+* lakka - [github repo](https://github.com/libretro/Lakka-LibreELEC) - lightweight Linux distribution
 * pcsx2 - [github repo](https://github.com/PCSX2/pcsx2) - PlayStation 2 emulator
 * playnite - [github repo](https://github.com/JosefNemec/Playnite) - video game library manager #windows
 * shadPS4 - [github repo](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator
@@ -94,9 +101,10 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * deltachat-desktop - [github repo](https://github.com/deltachat/deltachat-desktop) - decentralized private messenger
 * filepizza - [github repo](https://github.com/kern/filepizza) - p2p file transfer in browser
 * frigate - [github repo](https://github.com/blakeblackshear/frigate) - Network Video Recording with realtime local object detection for IP cameras
-* quiet - [github repo](https://github.com/TryQuiet/quiet) - encrypted p2p team chat #tor
 * keepassxc - [github repo](https://github.com/keepassxreboot/keepassxc) - community-driven port of keepass
+* quiet - [github repo](https://github.com/TryQuiet/quiet) - encrypted p2p team chat #tor
 * secretive - [github repo](https://github.com/maxgoedjen/secretive) - SSH keys with the secure enclave #mac
+* usbguard - [github repo](https://github.com/USBGuard/usbguard) - a software framework for USB device authorization policies
 
 ## web
 

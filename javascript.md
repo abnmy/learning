@@ -6,6 +6,7 @@
 * deno - [github repo](https://github.com/denoland/deno) - nodejs successor #rust
 * esbuild - [github repo](https://github.com/evanw/esbuild) - bundler
 * prisma - [github repo](https://github.com/prisma/prisma) - ORM
+* video.js - [github repo](https://github.com/videojs/video.js) - open source HTML5 video player
 * vite - [github repo](https://github.com/vitejs/vite) - frontend tooling
 
 ## Framework
