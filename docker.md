@@ -4,6 +4,7 @@
 
 * colima - [github repo](https://github.com/abiosoft/colima) - container runtimes
 * docker-baseimage-gui - [github repo](https://github.com/jlesage/docker-baseimage-gui)
+* dokploy - [github repo](https://github.com/Dokploy/dokploy) - self-hostable Platform as a Service
 * dokku - [github repo](https://github.com/dokku/dokku) - the smallest PaaS aka mini-Heroku
 * lima - [github repo](https://github.com/lima-vm/lima) - Linux vms with a focus on running containers
 * sandboxie - [github repo](https://github.com/sandboxie-plus/Sandboxie) - sandbox-based isolation

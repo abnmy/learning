@@ -5,5 +5,6 @@
 * dolt - [github repo](https://github.com/dolthub/dolt) - git for data
 * electric - [github repo](https://github.com/electric-sql/electric) - a Postgres sync engine
 * nocodb - [github repo](https://github.com/nocodb/nocodb) - alternative to Airtable
+* questdb - [github repo](https://github.com/questdb/questdb) - time-series database, alternative to influxdb
 * scylladb - [github repo](https://github.com/scylladb/scylladb) - real-time big data database, API-compatible with Apache Cassandra and Amazon DynamoDB
 * teable - [github repo](https://github.com/teableio/teable) - alternative to Airtable

@@ -2,6 +2,10 @@
 * awesome hacking - [github repo](https://github.com/Hack-with-Github/Awesome-Hacking) - curated list
 * city-roads - [github repo](https://github.com/anvaka/city-roads) - render every single road
 
+## ai
+
+librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternative to chatgpt
+
 ## administration
 
 * cal.com - [github repo](https://github.com/calcom/cal.com) - alternative to calendly
@@ -32,6 +36,7 @@
 * himalaya - [github repo](https://github.com/pimalaya/himalaya) - email manager
 * kitty - [github repo](https://github.com/kovidgoyal/kitty) - GPU based terminal emulator
 * terminals-are-sexy - [github repo](https://github.com/k4m4/terminals-are-sexy) - curated list
+* tmux - [github repo](https://github.com/tmux/tmux) - terminal multiplexer
 * videogrep - [github repo](https://github.com/antiboredom/videogrep) - automatic video supercuts #python
 
 ## desktop
@@ -54,9 +59,12 @@
 
 * asciiflow - [github repo](https://github.com/lewish/asciiflow) - drawing ASCII diagrams
 * brew - [github repo](https://github.com/Homebrew/brew) - package manager
+* dragonfly - [github repo](https://github.com/dragonflydb/dragonfly) - alternative to redis
 * navi - [github repo](https://github.com/denisidoro/navi) - interactive cheatsheet
+* playwright - [github repo](https://github.com/microsoft/playwright) - framework for web testing and automation
 * prettier - [github repo](https://github.com/prettier/prettier) - an opinionated code formatter
 * unison - [github repo](https://github.com/unisonweb/unison) - functional language
+* v - [github repo](https://github.com/vlang/v)
 
 ## gaming
 
@@ -88,6 +96,7 @@
 * frigate - [github repo](https://github.com/blakeblackshear/frigate) - Network Video Recording with realtime local object detection for IP cameras
 * quiet - [github repo](https://github.com/TryQuiet/quiet) - encrypted p2p team chat #tor
 * keepassxc - [github repo](https://github.com/keepassxreboot/keepassxc) - community-driven port of keepass
+* secretive - [github repo](https://github.com/maxgoedjen/secretive) - SSH keys with the secure enclave #mac
 
 ## web
 
