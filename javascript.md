@@ -4,8 +4,11 @@
 
 * bun - [github repo](https://github.com/oven-sh/bun) - JavaScript runtime, alternative to node.js
 * deno - [github repo](https://github.com/denoland/deno) - nodejs successor #rust
+* dotenvx - [github repo](https://github.com/dotenvx/dotenvx) - a secure dotenv
 * esbuild - [github repo](https://github.com/evanw/esbuild) - bundler
 * prisma - [github repo](https://github.com/prisma/prisma) - ORM
+* quill - [github repo](https://github.com/slab/quill) - WYSIWYG editor
+* tinymce - [github repo](https://github.com/tinymce/tinymce) - WYSIWYG editor
 * video.js - [github repo](https://github.com/videojs/video.js) - open source HTML5 video player
 * vite - [github repo](https://github.com/vitejs/vite) - frontend tooling
 

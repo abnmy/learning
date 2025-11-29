@@ -22,6 +22,7 @@ pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
 * mypy - [github repo](https://github.com/python/mypy)
 * pyright - [github repo](https://github.com/microsoft/pyright)
 * pyrefly - [github repo](https://github.com/facebook/pyrefly) - python type checker #rust replacement for pyre-check
+* ruff - [github repo](https://github.com/astral-sh/ruff) - linter and code formatter #rust
 
 ### framework
 

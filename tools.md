@@ -2,14 +2,18 @@
 * awesome hacking - [github repo](https://github.com/Hack-with-Github/Awesome-Hacking) - curated list
 * awwesome wpo - [github repo](https://github.com/davidsonfellipe/awesome-wpo) - web performance optimization curated list
 * city-roads - [github repo](https://github.com/anvaka/city-roads) - render every single road
+* omakub - [github repo](https://github.com/basecamp/omakub) - opinionated Ubuntu setup
+* webgoat - [github repo](https://github.com/WebGoat/WebGoat) - a deliberately insecure application #owasp
 
 ## ai
 
 librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternative to chatgpt
 
-## administration
+## administrative tasks
 
 * cal.com - [github repo](https://github.com/calcom/cal.com) - alternative to calendly
+* overleaf - [github repo](https://github.com/overleaf/overleaf) - web-based collaborative LaTeX editor
+* reveal.js [github repo](https://github.com/hakimel/reveal.js) - presentation framework
 * rustdesk - [guthub repo](https://github.com/rustdesk/rustdesk) - alternative to TeamViewer
 * signaturepdf - [github repo](https://github.com/24eme/signaturepdf) - PDF toolbox
 
@@ -35,9 +39,12 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * bat - [github repo](https://github.com/sharkdp/bat) - alternative to cat #rust
 * carbon - [github repo](https://github.com/carbon-app/carbon) - code screenshots
 * ghostty - [github rpeo](https://github.com/ghostty-org/ghostty) - cross-platform terminal emulator that uses platform-native UI and GPU acceleration
+* glances - [github repo](https://github.com/nicolargo/glances) - system monitoring
 * himalaya - [github repo](https://github.com/pimalaya/himalaya) - email manager
 * httpie - [github repo](https://github.com/httpie/cli) - HTTP client
 * kitty - [github repo](https://github.com/kovidgoyal/kitty) - GPU based terminal emulator
+* magic-wormhole - [github repo](https://github.com/magic-wormhole/magic-wormhole) - transfer app
+* sq - [github repo](https://github.com/neilotoole/sq) - like jq for SQL
 * terminals-are-sexy - [github repo](https://github.com/k4m4/terminals-are-sexy) - curated list
 * tmux - [github repo](https://github.com/tmux/tmux) - terminal multiplexer
 * videogrep - [github repo](https://github.com/antiboredom/videogrep) - automatic video supercuts #python
@@ -46,7 +53,10 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 
 * czkawka - [github repo](https://github.com/qarmin/czkawka) - duplicate finder #rust
 * files - [github repo](https://github.com/files-community/Files) - file manager
+* glazewm - [github repo](https://github.com/glzr-io/glazewm) - tiling window manager for Windows #i3
 * hyprland - [github repo](https://github.com/hyprwm/Hyprland) - highly customizable, dynamic tiling Wayland compositor
+* i3 - [github repo](https://github.com/i3/i3) - tiling window manager for Linux
+* ice - [github repo](https://github.com/jordanbaird/Ice) - macOS menu bar manager
 * immich - [github repo](https://github.com/immich-app/immich)
 * microsoft activation scripts - [github repo](https://github.com/massgravel/Microsoft-Activation-Scripts) - open source activator
 * openrazer - [github repo](https://github.com/openrazer/openrazer) - collection of Linux drivers for Razer devices
@@ -59,24 +69,31 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * TechEmpower project - [github repo](https://github.com/TechEmpower/FrameworkBenchmarks)
 * wsl - [github repo](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 
-## dev
+## dev tools
 
 * asciiflow - [github repo](https://github.com/lewish/asciiflow) - drawing ASCII diagrams
+* aws lambda adapter - [github repo](https://github.com/awslabs/aws-lambda-web-adapter)
 * brew - [github repo](https://github.com/Homebrew/brew) - package manager
 * cosmopolitan - [github repo](https://github.com/jart/cosmopolitan) - a POSIX-approved polyglot format
 * delta - [github repo](https://github.com/dandavison/delta) - syntax-highlighting pager for git, diff, grep
 * dragonfly - [github repo](https://github.com/dragonflydb/dragonfly) - alternative to redis
+* ImHex - [github repo](https://github.com/WerWolv/ImHex) - hex editor
+* mvpcss - [github repo](https://github.com/andybrewer/mvp) - minimalist classless css stylesheet
 * navi - [github repo](https://github.com/denisidoro/navi) - interactive cheatsheet
 * playwright - [github repo](https://github.com/microsoft/playwright) - framework for web testing and automation
 * prettier - [github repo](https://github.com/prettier/prettier) - an opinionated code formatter
+* tailwindcss - [github repo](https://github.com/tailwindlabs/tailwindcss) - css framework
 * unison - [github repo](https://github.com/unisonweb/unison) - functional language
+* super-linter - [github repo](https://github.com/super-linter/super-linter) - multiple linters to run as a GitHub Action
 * v - [github repo](https://github.com/vlang/v)
 
 ## gaming
 
 * bazzite - [github repo](https://github.com/ublue-os/bazzite) - a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming
-* godot - [github repo](https://github.com/godotengine/godot) - cross-platform 2D and 3D game engine
+* godot - [github repo](https://github.com/godotengine/godot) - cross-platform 2d and 3d game engine
 * lakka - [github repo](https://github.com/libretro/Lakka-LibreELEC) - lightweight Linux distribution
+* mangohud - [github repo](https://github.com/flightlessmango/MangoHud) - overlay for monitoring FPS
+* moonlight - [github repo](https://github.com/moonlight-stream/moonlight-qt) - Nvidia gamestream client
 * pcsx2 - [github repo](https://github.com/PCSX2/pcsx2) - PlayStation 2 emulator
 * playnite - [github repo](https://github.com/JosefNemec/Playnite) - video game library manager #windows
 * shadPS4 - [github repo](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator
@@ -86,11 +103,14 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * blackcandy - [github repo](https://github.com/blackcandy-org/blackcandy) - self hosted music streaming server
 * dopamine - [github repo](https://github.com/digimezzo/dopamine) - audio player
 * fish-speech - [github repo](https://github.com/fishaudio/fish-speech) - Text-to-Speech models
+* fooyin - [github repo](https://github.com/fooyin/fooyin) - music player #foobar
 * metastream - [github repo](https://github.com/samuelmaddock/metastream) - watch streaming media with friends
 * mixxx - [github repo](https://github.com/mixxxdj/mixxx) - DJ software
+* mpv - [github repo](https://github.com/mpv-player/mpv) - media player for the command line
 * navidrome - [github repo](https://github.com/navidrome/navidrome) - audio streaming service
 * owncast - [github repo](https://github.com/owncast/owncast) - self-hosted, decentralized, single user live video streaming and chat server
 * photoprism - [github repo](https://github.com/photoprism/photoprism) - AI-powered photos app for the decentralized web
+* projectm - [github repo](https://github.com/projectM-visualizer/projectm) - music visualization
 * spotube - [github repo](https://github.com/KRTirtho/spotube) - cross-platform extensible open-source music streaming platform
 
 ## privacy
@@ -99,9 +119,11 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * cryptomator - [github repo](https://github.com/cryptomator/cryptomator) - client-side encryption
 * deltachat-android - [github repo](https://github.com/deltachat/deltachat-android) - decentralized private messenger
 * deltachat-desktop - [github repo](https://github.com/deltachat/deltachat-desktop) - decentralized private messenger
+* exposedbydefault - [github repo](https://github.com/neberej/exposedbydefault) - fingerprinting detector [#eff-like](https://coveryourtracks.eff.org/)
 * filepizza - [github repo](https://github.com/kern/filepizza) - p2p file transfer in browser
 * frigate - [github repo](https://github.com/blakeblackshear/frigate) - Network Video Recording with realtime local object detection for IP cameras
 * keepassxc - [github repo](https://github.com/keepassxreboot/keepassxc) - community-driven port of keepass
+* molly - [github repo](https://github.com/mollyim/mollyim-android) - signal fork by signal devs
 * quiet - [github repo](https://github.com/TryQuiet/quiet) - encrypted p2p team chat #tor
 * secretive - [github repo](https://github.com/maxgoedjen/secretive) - SSH keys with the secure enclave #mac
 * usbguard - [github repo](https://github.com/USBGuard/usbguard) - a software framework for USB device authorization policies
@@ -112,12 +134,15 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * biome - [github repo](https://github.com/biomejs/biome) - toolchain for web projects #rust
 * fast stream - [github repo](https://github.com/Andrews54757/FastStream) - video player replacement #firefox
 * floorp - [github repo](https://github.com/Floorp-Projects/Floorp) - #firefox
+* gokapi - [github repo](https://github.com/Forceu/Gokapi) - firefox send alternative
+* ladybird - [github repo](https://github.com/LadybirdBrowser/ladybird) - independent web browser using a novel engine
 * manifest - [github repo](https://github.com/mnfst/manifest) - one-file backend
 * pines - [github repo](https://github.com/thedevdojo/pines) - pines UI library
 * signoz - [github repo](https://github.com/SigNoz/signoz) - #datadog #monitoring
 * sonic - [github repo](https://github.com/valeriansaliou/sonic) - alternative to Elasticsearch
 * speedtest tracker - [github repo](https://github.com/alexjustesen/speedtest-tracker) - performance and uptime your ISP #monitoring
 * spin - [github repo](https://github.com/spinframework/spin) - a framework for microservices with WebAssembly
+* sponsor block - [github repo](https://github.com/ajayyy/SponsorBlock) - browser extension to skip yt video segment
 * tipi - [github repo](https://github.com/runtipi/runtipi) - personal homeserver orchestrator
 * ublock origin - [github repo](https://github.com/gorhill/uBlock) - content blocker #firefox
 * yt dlp - [github repo](https://github.com/yt-dlp/yt-dlp) - command-line audio/video downloader
