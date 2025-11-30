@@ -5,12 +5,14 @@
 * diagrams - [github repo](https://github.com/mingrammer/diagrams) - diagram as Code for prototyping cloud system architectures
 * dive - [github repo](https://github.com/wagoodman/dive) - docker image analyzer
 * docker-baseimage-gui - [github repo](https://github.com/jlesage/docker-baseimage-gui)
+* docker static website - [github repo](https://github.com/lipanski/docker-static-website) - small Docker image to run any static website
 * dokku - [github repo](https://github.com/dokku/dokku) - the smallest PaaS aka mini-Heroku
 * dokploy - [github repo](https://github.com/Dokploy/dokploy) - self-hostable Platform as a Service
 * glasskube - [github repo](https://github.com/glasskube/glasskube) - kubernetes package manager
 * helm - [github repo](https://github.com/helm/helm) - kubernetes package manager
 * incus - [github repo](https://github.com/lxc/incus) - container and vm manager
 * k6 - [github repo](https://github.com/grafana/k6) - load testing
+* lazydocker - [github repo](https://github.com/jesseduffield/lazydocker) - terminal UI for docker and docker-compose
 * lima - [github repo](https://github.com/lima-vm/lima) - Linux vms with a focus on running containers
 * osv scanner - [github repo](https://github.com/google/osv-scanner) - vulnerability scanner
 * portspoof - [github repo](https://github.com/drk1wi/portspoof) - enhance OS security

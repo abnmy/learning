@@ -1,5 +1,7 @@
 # Javascript
 
+* js-framework-benchmark - [github repo](https://github.com/krausest/js-framework-benchmark)
+
 ## Dev
 
 * bun - [github repo](https://github.com/oven-sh/bun) - JavaScript runtime, alternative to node.js

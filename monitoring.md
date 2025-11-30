@@ -8,7 +8,7 @@
 
 ## Tools
 
-* Uptime Kuma: https://github.com/louislam/uptime-kuma - https://uptime.kuma.pet/
+* uptime-kuma - [github repo](https://github.com/louislam/uptime-kuma) - self-hosted monitoring tool
 
 ## Grafana / Loki
 

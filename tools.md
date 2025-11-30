@@ -1,3 +1,4 @@
+* awesome crawler - [github repo](https://github.com/BruceDone/awesome-crawler)
 * awesome design patterns - [github repo](https://github.com/DovAmir/awesome-design-patterns) - curated list
 * awesome hacking - [github repo](https://github.com/Hack-with-Github/Awesome-Hacking) - curated list
 * awwesome wpo - [github repo](https://github.com/davidsonfellipe/awesome-wpo) - web performance optimization curated list
@@ -7,12 +8,17 @@
 
 ## ai
 
-librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternative to chatgpt
+* awesome mcp servers - [github repo](https://github.com/punkpeye/awesome-mcp-servers)
+* chainner - [github repo](https://github.com/chaiNNer-org/chaiNNer) - image processing app
+* librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternative to chatgpt
+* magika - [github repo](https://github.com/google/magika) - file content types detection
 
 ## administrative tasks
 
 * cal.com - [github repo](https://github.com/calcom/cal.com) - alternative to calendly
+* itsycal - [text](https://github.com/sfsam/Itsycal) - calendar for your Mac's menu bar
 * overleaf - [github repo](https://github.com/overleaf/overleaf) - web-based collaborative LaTeX editor
+* pyCirclize - [github repo](https://github.com/moshi4/pyCirclize) - circular visualization
 * reveal.js [github repo](https://github.com/hakimel/reveal.js) - presentation framework
 * rustdesk - [guthub repo](https://github.com/rustdesk/rustdesk) - alternative to TeamViewer
 * signaturepdf - [github repo](https://github.com/24eme/signaturepdf) - PDF toolbox
@@ -38,6 +44,7 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * alacritty - [github repo](https://github.com/alacritty/alacritty) - cross-platform openGL terminal emulator
 * bat - [github repo](https://github.com/sharkdp/bat) - alternative to cat #rust
 * carbon - [github repo](https://github.com/carbon-app/carbon) - code screenshots
+* fx - [github repo](https://github.com/antonmedv/fx) - JSON viewer and processor
 * ghostty - [github rpeo](https://github.com/ghostty-org/ghostty) - cross-platform terminal emulator that uses platform-native UI and GPU acceleration
 * glances - [github repo](https://github.com/nicolargo/glances) - system monitoring
 * himalaya - [github repo](https://github.com/pimalaya/himalaya) - email manager
@@ -48,6 +55,7 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * terminals-are-sexy - [github repo](https://github.com/k4m4/terminals-are-sexy) - curated list
 * tmux - [github repo](https://github.com/tmux/tmux) - terminal multiplexer
 * videogrep - [github repo](https://github.com/antiboredom/videogrep) - automatic video supercuts #python
+* xplr - [github repo](https://github.com/sayanarijit/xplr) - file explorer
 
 ## desktop
 
@@ -59,15 +67,20 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * ice - [github repo](https://github.com/jordanbaird/Ice) - macOS menu bar manager
 * immich - [github repo](https://github.com/immich-app/immich)
 * microsoft activation scripts - [github repo](https://github.com/massgravel/Microsoft-Activation-Scripts) - open source activator
+* openmediavault - [github repo](https://github.com/openmediavault/openmediavault) - network attached storage solution
 * openrazer - [github repo](https://github.com/openrazer/openrazer) - collection of Linux drivers for Razer devices
 * peazip - [github repo](https://github.com/peazip/PeaZip) - cross-platform file and archive manager
 * rainmeter - [github repo](https://github.com/rainmeter/rainmeter) - desktop customization #windows
 * rclone - [github repo](https://github.com/rclone/rclone)
+* rectangle - [github repo](https://github.com/rxhanson/Rectangle) - macOS windows manager
 * spacedrive - [github repo](https://github.com/spacedriveapp/spacedrive) - cross-platform file explorer #rust
 * stirling PDF - [github repo](https://github.com/Stirling-Tools/Stirling-PDF) - toolbox for PDF
 * syncthing - [github repo](https://github.com/syncthing/syncthing) - continuous file synchronization
 * TechEmpower project - [github repo](https://github.com/TechEmpower/FrameworkBenchmarks)
+* why not win11 - [github repo](https://github.com/rcmaehl/WhyNotWin11) - Windows 11 compatibility detection script
 * wsl - [github repo](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
+* xbar - [github repo](https://github.com/matryer/xbar) - macOS menu bar plugins
+* zulip - [github repo](https://github.com/zulip/zulip) - alternative to slack
 
 ## dev tools
 
@@ -77,6 +90,8 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * cosmopolitan - [github repo](https://github.com/jart/cosmopolitan) - a POSIX-approved polyglot format
 * delta - [github repo](https://github.com/dandavison/delta) - syntax-highlighting pager for git, diff, grep
 * dragonfly - [github repo](https://github.com/dragonflydb/dragonfly) - alternative to redis
+* dream - [github repo](https://github.com/camlworks/dream) - OCaml web framework
+* fluxsort - [github repo](https://github.com/scandum/fluxsort) - branchless stable quicksort/mergesort hybrid
 * ImHex - [github repo](https://github.com/WerWolv/ImHex) - hex editor
 * mvpcss - [github repo](https://github.com/andybrewer/mvp) - minimalist classless css stylesheet
 * navi - [github repo](https://github.com/denisidoro/navi) - interactive cheatsheet
@@ -89,6 +104,7 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 
 ## gaming
 
+* 3d-game-shaders-for-beginners - [github repo](https://github.com/lettier/3d-game-shaders-for-beginners)
 * bazzite - [github repo](https://github.com/ublue-os/bazzite) - a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming
 * godot - [github repo](https://github.com/godotengine/godot) - cross-platform 2d and 3d game engine
 * lakka - [github repo](https://github.com/libretro/Lakka-LibreELEC) - lightweight Linux distribution
@@ -96,14 +112,17 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * moonlight - [github repo](https://github.com/moonlight-stream/moonlight-qt) - Nvidia gamestream client
 * pcsx2 - [github repo](https://github.com/PCSX2/pcsx2) - PlayStation 2 emulator
 * playnite - [github repo](https://github.com/JosefNemec/Playnite) - video game library manager #windows
+* presentmon - [github repo](https://github.com/GameTechDev/PresentMon) - monitoring CPU, GPU, etc.
 * shadPS4 - [github repo](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator
 
 ## media
 
+* beets - [github repo](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 * blackcandy - [github repo](https://github.com/blackcandy-org/blackcandy) - self hosted music streaming server
 * dopamine - [github repo](https://github.com/digimezzo/dopamine) - audio player
 * fish-speech - [github repo](https://github.com/fishaudio/fish-speech) - Text-to-Speech models
 * fooyin - [github repo](https://github.com/fooyin/fooyin) - music player #foobar
+* jellyfin - [github repo](https://github.com/jellyfin/jellyfin) - managing and streaming your media, alternative to Plex
 * metastream - [github repo](https://github.com/samuelmaddock/metastream) - watch streaming media with friends
 * mixxx - [github repo](https://github.com/mixxxdj/mixxx) - DJ software
 * mpv - [github repo](https://github.com/mpv-player/mpv) - media player for the command line
@@ -111,7 +130,9 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * owncast - [github repo](https://github.com/owncast/owncast) - self-hosted, decentralized, single user live video streaming and chat server
 * photoprism - [github repo](https://github.com/photoprism/photoprism) - AI-powered photos app for the decentralized web
 * projectm - [github repo](https://github.com/projectM-visualizer/projectm) - music visualization
+* rufus - [github repo](https://github.com/pbatard/rufus) - create bootable USB flash drives
 * spotube - [github repo](https://github.com/KRTirtho/spotube) - cross-platform extensible open-source music streaming platform
+* squoosh - [github repo](https://github.com/GoogleChromeLabs/squoosh) - image compression web app
 
 ## privacy
 
@@ -126,6 +147,7 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * molly - [github repo](https://github.com/mollyim/mollyim-android) - signal fork by signal devs
 * quiet - [github repo](https://github.com/TryQuiet/quiet) - encrypted p2p team chat #tor
 * secretive - [github repo](https://github.com/maxgoedjen/secretive) - SSH keys with the secure enclave #mac
+* staticrypt - [github repo](https://github.com/robinmoisson/staticrypt) - password protect a static HTML page
 * usbguard - [github repo](https://github.com/USBGuard/usbguard) - a software framework for USB device authorization policies
 
 ## web
@@ -135,6 +157,7 @@ librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternativ
 * fast stream - [github repo](https://github.com/Andrews54757/FastStream) - video player replacement #firefox
 * floorp - [github repo](https://github.com/Floorp-Projects/Floorp) - #firefox
 * gokapi - [github repo](https://github.com/Forceu/Gokapi) - firefox send alternative
+* instant.io - [github repo](https://github.com/webtorrent/instant.io) - file transfer over WebTorrent #beta #wormhole
 * ladybird - [github repo](https://github.com/LadybirdBrowser/ladybird) - independent web browser using a novel engine
 * manifest - [github repo](https://github.com/mnfst/manifest) - one-file backend
 * pines - [github repo](https://github.com/thedevdojo/pines) - pines UI library
