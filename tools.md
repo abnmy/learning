@@ -22,6 +22,7 @@
 * reveal.js [github repo](https://github.com/hakimel/reveal.js) - presentation framework
 * rustdesk - [guthub repo](https://github.com/rustdesk/rustdesk) - alternative to TeamViewer
 * signaturepdf - [github repo](https://github.com/24eme/signaturepdf) - PDF toolbox
+* vale - [github repo](https://github.com/errata-ai/vale)
 
 ## android
 
@@ -44,6 +45,8 @@
 * alacritty - [github repo](https://github.com/alacritty/alacritty) - cross-platform openGL terminal emulator
 * bat - [github repo](https://github.com/sharkdp/bat) - alternative to cat #rust
 * carbon - [github repo](https://github.com/carbon-app/carbon) - code screenshots
+* difftastic - [github repo](https://github.com/Wilfred/difftastic) - diff that understands syntax
+* fclones - [github repo](https://github.com/pkolaczk/fclones) - duplicate file finder
 * fx - [github repo](https://github.com/antonmedv/fx) - JSON viewer and processor
 * ghostty - [github rpeo](https://github.com/ghostty-org/ghostty) - cross-platform terminal emulator that uses platform-native UI and GPU acceleration
 * glances - [github repo](https://github.com/nicolargo/glances) - system monitoring
@@ -51,9 +54,11 @@
 * httpie - [github repo](https://github.com/httpie/cli) - HTTP client
 * kitty - [github repo](https://github.com/kovidgoyal/kitty) - GPU based terminal emulator
 * magic-wormhole - [github repo](https://github.com/magic-wormhole/magic-wormhole) - transfer app
+* resh - [github repo](https://github.com/curusarn/resh) - contextual shell history #obsolete
 * sq - [github repo](https://github.com/neilotoole/sq) - like jq for SQL
 * terminals-are-sexy - [github repo](https://github.com/k4m4/terminals-are-sexy) - curated list
 * tmux - [github repo](https://github.com/tmux/tmux) - terminal multiplexer
+* vhs - [github repo](https://github.com/charmbracelet/vhs) - cli recorder
 * videogrep - [github repo](https://github.com/antiboredom/videogrep) - automatic video supercuts #python
 * xplr - [github repo](https://github.com/sayanarijit/xplr) - file explorer
 
@@ -93,12 +98,16 @@
 * dream - [github repo](https://github.com/camlworks/dream) - OCaml web framework
 * fluxsort - [github repo](https://github.com/scandum/fluxsort) - branchless stable quicksort/mergesort hybrid
 * ImHex - [github repo](https://github.com/WerWolv/ImHex) - hex editor
+* lost-pixel - [github repo](https://github.com/lost-pixel/lost-pixel) - visual regression testing tool
+* magic-trace - [github repo](https://github.com/janestreet/magic-trace) - collects and displays high-resolution traces
 * mvpcss - [github repo](https://github.com/andybrewer/mvp) - minimalist classless css stylesheet
 * navi - [github repo](https://github.com/denisidoro/navi) - interactive cheatsheet
+* plasmo - [github repo](https://github.com/PlasmoHQ/plasmo) - extension framework
 * playwright - [github repo](https://github.com/microsoft/playwright) - framework for web testing and automation
 * prettier - [github repo](https://github.com/prettier/prettier) - an opinionated code formatter
 * tailwindcss - [github repo](https://github.com/tailwindlabs/tailwindcss) - css framework
 * unison - [github repo](https://github.com/unisonweb/unison) - functional language
+* sokrates - [github repo](https://github.com/zeljkoobrenovic/sokrates) - polyglot source code examination tool
 * super-linter - [github repo](https://github.com/super-linter/super-linter) - multiple linters to run as a GitHub Action
 * v - [github repo](https://github.com/vlang/v)
 
@@ -106,26 +115,32 @@
 
 * 3d-game-shaders-for-beginners - [github repo](https://github.com/lettier/3d-game-shaders-for-beginners)
 * bazzite - [github repo](https://github.com/ublue-os/bazzite) - a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming
+* bae - [github repo](https://github.com/bladecoder/bladecoder-adventure-engine) -  point and click adventure game engine
 * godot - [github repo](https://github.com/godotengine/godot) - cross-platform 2d and 3d game engine
 * lakka - [github repo](https://github.com/libretro/Lakka-LibreELEC) - lightweight Linux distribution
+* lutris - [github repo](https://github.com/lutris/lutris) - alternative to Steam
 * mangohud - [github repo](https://github.com/flightlessmango/MangoHud) - overlay for monitoring FPS
 * moonlight - [github repo](https://github.com/moonlight-stream/moonlight-qt) - Nvidia gamestream client
 * pcsx2 - [github repo](https://github.com/PCSX2/pcsx2) - PlayStation 2 emulator
 * playnite - [github repo](https://github.com/JosefNemec/Playnite) - video game library manager #windows
 * presentmon - [github repo](https://github.com/GameTechDev/PresentMon) - monitoring CPU, GPU, etc.
 * shadPS4 - [github repo](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator
+* steamsync - [github repo](https://github.com/jaydenmilne/steamsync) - add Epic Games to Steam
 
 ## media
 
 * beets - [github repo](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 * blackcandy - [github repo](https://github.com/blackcandy-org/blackcandy) - self hosted music streaming server
+* dim - [github repo](https://github.com/Dusk-Labs/dim) - media manager #rust
 * dopamine - [github repo](https://github.com/digimezzo/dopamine) - audio player
 * fish-speech - [github repo](https://github.com/fishaudio/fish-speech) - Text-to-Speech models
 * fooyin - [github repo](https://github.com/fooyin/fooyin) - music player #foobar
+* handbrake - [github repo](https://github.com/HandBrake/HandBrake) - video transcoder
 * jellyfin - [github repo](https://github.com/jellyfin/jellyfin) - managing and streaming your media, alternative to Plex
 * metastream - [github repo](https://github.com/samuelmaddock/metastream) - watch streaming media with friends
 * mixxx - [github repo](https://github.com/mixxxdj/mixxx) - DJ software
 * mpv - [github repo](https://github.com/mpv-player/mpv) - media player for the command line
+* musikcube - [github repo](https://github.com/clangen/musikcube) - cross-platform, terminal-based audio engine, library, player and server
 * navidrome - [github repo](https://github.com/navidrome/navidrome) - audio streaming service
 * owncast - [github repo](https://github.com/owncast/owncast) - self-hosted, decentralized, single user live video streaming and chat server
 * photoprism - [github repo](https://github.com/photoprism/photoprism) - AI-powered photos app for the decentralized web
@@ -145,6 +160,7 @@
 * frigate - [github repo](https://github.com/blakeblackshear/frigate) - Network Video Recording with realtime local object detection for IP cameras
 * keepassxc - [github repo](https://github.com/keepassxreboot/keepassxc) - community-driven port of keepass
 * molly - [github repo](https://github.com/mollyim/mollyim-android) - signal fork by signal devs
+* portmaster - [text](https://github.com/safing/portmaster) - firewall
 * quiet - [github repo](https://github.com/TryQuiet/quiet) - encrypted p2p team chat #tor
 * secretive - [github repo](https://github.com/maxgoedjen/secretive) - SSH keys with the secure enclave #mac
 * staticrypt - [github repo](https://github.com/robinmoisson/staticrypt) - password protect a static HTML page
@@ -161,6 +177,7 @@
 * ladybird - [github repo](https://github.com/LadybirdBrowser/ladybird) - independent web browser using a novel engine
 * manifest - [github repo](https://github.com/mnfst/manifest) - one-file backend
 * pines - [github repo](https://github.com/thedevdojo/pines) - pines UI library
+* regex-vis - [github repo](https://github.com/Bowen7/regex-vis) - regex visualizer and editor
 * signoz - [github repo](https://github.com/SigNoz/signoz) - #datadog #monitoring
 * sonic - [github repo](https://github.com/valeriansaliou/sonic) - alternative to Elasticsearch
 * speedtest tracker - [github repo](https://github.com/alexjustesen/speedtest-tracker) - performance and uptime your ISP #monitoring

@@ -16,10 +16,10 @@
 
 ## Framework
 
-* https://github.com/appwrite/appwrite - https://appwrite.io/
+* appwrite - [github repo](https://github.com/appwrite/appwrite) - dev platform
 * https://github.com/withastro/astro - https://astro.build/
 * https://github.com/denoland/fresh
-* https://github.com/BuilderIO/qwik
+* qwik - [github repo](https://github.com/QwikDev/qwik)
 * https://github.com/redwoodjs/redwood - https://redwoodjs.com/
 * nuejs - [github repo](https://github.com/nuejs/nue) - development environment
 * zod - [github repo](https://github.com/colinhacks/zod) - schema validation

@@ -6,17 +6,17 @@
 * https://github.com/more-itertools/more-itertools
 * https://github.com/PyO3/pyo3 — Rust bindings
 * https://github.com/pytest-dev/pytest
-* https://github.com/sqlalchemy/sqlalchemy — ORM
+* sqlalchemy - [github repo](https://github.com/sqlalchemy/sqlalchemy) - ORM
 * seleniumbase - [github repo](https://github.com/seleniumbase/SeleniumBase) - a browser automation framework
 
 ### install/venv
 
 pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
 
-* https://github.com/asdf-vm/asdf
-* https://github.com/pypa/pipenv
-* https://github.com/python-poetry/poetry
-* 
+* asdf - [github repo](https://github.com/asdf-vm/asdf) - multiple runtime versions manager
+* pipenv - [github repo](https://github.com/pypa/pipenv) - virtualenv manager
+* poetry - [github repo](https://github.com/python-poetry/poetry) - declare, manage and install dependencies
+
 ### typing — https://docs.python.org/3/library/typing.html
 
 * mypy - [github repo](https://github.com/python/mypy)

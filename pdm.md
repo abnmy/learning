@@ -2,6 +2,7 @@
 
 alternatives to notion
 
+* answer - [github repo](https://github.com/apache/answer) - alternative to Stackoverflow
 * appflowy - [github repo](https://github.com/AppFlowy-IO/AppFlowy) - collaborative workspace
 * cryptpad - [github repo](https://github.com/cryptpad/cryptpad) - collaborative office suite, e2e encrypted
 * curio - [github repo](https://github.com/skyline-apps/curio) - read-later #personal
