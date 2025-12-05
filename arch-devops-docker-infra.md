@@ -1,3 +1,4 @@
+* anteon - [github repo](https://github.com/getanteon/anteon) - eBPF-based kubernetes monitoring and performance testing platform
 * authelia - [github repo](https://github.com/authelia/authelia) - sso portal
 * caddy - [github repo](https://github.com/caddyserver/caddy) - server
 * certbot - [github repo](https://github.com/certbot/certbot) - client that fetches a certificate from Let’s Encrypt
@@ -22,11 +23,12 @@
 * sandboxie - [github repo](https://github.com/sandboxie-plus/Sandboxie) - sandbox-based isolation
 * system-design-primer - [github repo](https://github.com/donnemartin/system-design-primer) - design large-scale systems
 * tofu - [github repo](https://github.com/opentofu/opentofu) - Infrastructure as Code
+* trivy - [github repo](https://github.com/aquasecurity/trivy) - security scanner
 * webvm - [github repo](https://github.com/leaningtech/webvm) - serverless virtual environment running fully client-side
 
-# Docker
+## Docker
 
-## resources
+### resources
 
 * Docker Networking Crash Course  - https://www.youtube.com/watch?v=OU6xOM0SE4o
 * Getting Started with Docker | Try Docker Tutorial Series - https://www.youtube.com/watch?v=-D6G2a1M784

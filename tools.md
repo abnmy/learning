@@ -1,7 +1,8 @@
 * awesome crawler - [github repo](https://github.com/BruceDone/awesome-crawler)
-* awesome design patterns - [github repo](https://github.com/DovAmir/awesome-design-patterns) - curated list
+* awesome design patterns - [github repo](https://github.com/DovAmir/awesome-design-patterns)
 * awesome hacking - [github repo](https://github.com/Hack-with-Github/Awesome-Hacking) - curated list
-* awwesome wpo - [github repo](https://github.com/davidsonfellipe/awesome-wpo) - web performance optimization curated list
+* awesome haskell - [github repo](https://github.com/krispo/awesome-haskell)
+* awesome wpo - [github repo](https://github.com/davidsonfellipe/awesome-wpo) - web performance optimization curated list
 * city-roads - [github repo](https://github.com/anvaka/city-roads) - render every single road
 * omakub - [github repo](https://github.com/basecamp/omakub) - opinionated Ubuntu setup
 * webgoat - [github repo](https://github.com/WebGoat/WebGoat) - a deliberately insecure application #owasp
@@ -17,6 +18,7 @@
 
 * cal.com - [github repo](https://github.com/calcom/cal.com) - alternative to calendly
 * itsycal - [text](https://github.com/sfsam/Itsycal) - calendar for your Mac's menu bar
+* fizzy - [github repo](https://github.com/basecamp/fizzy) - kanban
 * overleaf - [github repo](https://github.com/overleaf/overleaf) - web-based collaborative LaTeX editor
 * pyCirclize - [github repo](https://github.com/moshi4/pyCirclize) - circular visualization
 * reveal.js [github repo](https://github.com/hakimel/reveal.js) - presentation framework
@@ -30,6 +32,7 @@
 * gallery - [github repo](https://github.com/IacobIonut01/Gallery) - built with Jetpack Compose #foss
 * localsend - [github repo](https://github.com/localsend/localsend) - alternative to AirDrop
 * newpipe - [github repo](https://github.com/TeamNewPipe/NewPipe) - lightweight streaming front-end
+* universal android debloater - [github repo](https://github.com/0x192/universal-android-debloater) - #obsolete
 * weather master - [github repo](https://github.com/PranshulGG/WeatherMaster)
 
 ## automation
@@ -37,6 +40,7 @@
 * n8n - [github repo](https://github.com/n8n-io/n8n)
 * ollama - [github repo](https://github.com/ollama/ollama) - large language model manager
 * powertoys - [github repo](https://github.com/microsoft/PowerToys) - collection of utilities #windows
+* restic - [github repo](https://github.com/restic/restic) - backup program
 * unsloth - [github repo](https://github.com/unslothai/unsloth) - fine-tuning & reinforcement learning for LLMs
 * vicinae - [github repo](https://github.com/vicinaehq/vicinae) - launcher, alternative to raycast
 
@@ -44,19 +48,24 @@
 
 * alacritty - [github repo](https://github.com/alacritty/alacritty) - cross-platform openGL terminal emulator
 * bat - [github repo](https://github.com/sharkdp/bat) - alternative to cat #rust
+* broot - [github repo](https://github.com/Canop/broot) - alternative to tree
 * carbon - [github repo](https://github.com/carbon-app/carbon) - code screenshots
 * difftastic - [github repo](https://github.com/Wilfred/difftastic) - diff that understands syntax
+* f3 - [github repo](https://github.com/AltraMayor/f3) - tests flash cards capacity and performance
 * fclones - [github repo](https://github.com/pkolaczk/fclones) - duplicate file finder
-* fx - [github repo](https://github.com/antonmedv/fx) - JSON viewer and processor
+* fx - [github repo](https://github.com/antonmedv/fx) - JSON viewer and processor #go
 * ghostty - [github rpeo](https://github.com/ghostty-org/ghostty) - cross-platform terminal emulator that uses platform-native UI and GPU acceleration
 * glances - [github repo](https://github.com/nicolargo/glances) - system monitoring
 * himalaya - [github repo](https://github.com/pimalaya/himalaya) - email manager
 * httpie - [github repo](https://github.com/httpie/cli) - HTTP client
+* jless - [github repo](https://github.com/PaulJuliusMartinez/jless) - JSON viewer #rust #obsolete
 * kitty - [github repo](https://github.com/kovidgoyal/kitty) - GPU based terminal emulator
 * magic-wormhole - [github repo](https://github.com/magic-wormhole/magic-wormhole) - transfer app
 * resh - [github repo](https://github.com/curusarn/resh) - contextual shell history #obsolete
+* shellcheck - [github repo](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts
 * sq - [github repo](https://github.com/neilotoole/sq) - like jq for SQL
 * terminals-are-sexy - [github repo](https://github.com/k4m4/terminals-are-sexy) - curated list
+* tidy viewer - [github repo](https://github.com/alexhallam/tv) - CSV viewer #rust
 * tmux - [github repo](https://github.com/tmux/tmux) - terminal multiplexer
 * vhs - [github repo](https://github.com/charmbracelet/vhs) - cli recorder
 * videogrep - [github repo](https://github.com/antiboredom/videogrep) - automatic video supercuts #python
@@ -100,12 +109,16 @@
 * ImHex - [github repo](https://github.com/WerWolv/ImHex) - hex editor
 * lost-pixel - [github repo](https://github.com/lost-pixel/lost-pixel) - visual regression testing tool
 * magic-trace - [github repo](https://github.com/janestreet/magic-trace) - collects and displays high-resolution traces
+* more-itertools - [github repo](https://github.com/more-itertools/more-itertools) - routines for operating on iterables, beyond itertools #python
 * mvpcss - [github repo](https://github.com/andybrewer/mvp) - minimalist classless css stylesheet
 * navi - [github repo](https://github.com/denisidoro/navi) - interactive cheatsheet
 * plasmo - [github repo](https://github.com/PlasmoHQ/plasmo) - extension framework
 * playwright - [github repo](https://github.com/microsoft/playwright) - framework for web testing and automation
 * prettier - [github repo](https://github.com/prettier/prettier) - an opinionated code formatter
+* pytest - [github repo](https://github.com/pytest-dev/pytest)
+* rich - [github repo](https://github.com/Textualize/rich) - beautiful formatting in the terminal
 * tailwindcss - [github repo](https://github.com/tailwindlabs/tailwindcss) - css framework
+* tqdm - [github repo](https://github.com/tqdm/tqdm) - cli progress bar
 * unison - [github repo](https://github.com/unisonweb/unison) - functional language
 * sokrates - [github repo](https://github.com/zeljkoobrenovic/sokrates) - polyglot source code examination tool
 * super-linter - [github repo](https://github.com/super-linter/super-linter) - multiple linters to run as a GitHub Action
@@ -116,6 +129,8 @@
 * 3d-game-shaders-for-beginners - [github repo](https://github.com/lettier/3d-game-shaders-for-beginners)
 * bazzite - [github repo](https://github.com/ublue-os/bazzite) - a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming
 * bae - [github repo](https://github.com/bladecoder/bladecoder-adventure-engine) -  point and click adventure game engine
+* bevy - [github repo](https://github.com/bevyengine/bevy) - data-driven game engine #rust
+* fyrox - [github repo](https://github.com/FyroxEngine/Fyrox) - 2d/3d game engine #rust
 * godot - [github repo](https://github.com/godotengine/godot) - cross-platform 2d and 3d game engine
 * lakka - [github repo](https://github.com/libretro/Lakka-LibreELEC) - lightweight Linux distribution
 * lutris - [github repo](https://github.com/lutris/lutris) - alternative to Steam
@@ -145,13 +160,16 @@
 * owncast - [github repo](https://github.com/owncast/owncast) - self-hosted, decentralized, single user live video streaming and chat server
 * photoprism - [github repo](https://github.com/photoprism/photoprism) - AI-powered photos app for the decentralized web
 * projectm - [github repo](https://github.com/projectM-visualizer/projectm) - music visualization
+* qoi - [github repo](https://github.com/phoboslab/qoi) - image/qoi fast, lossless image compression
 * rufus - [github repo](https://github.com/pbatard/rufus) - create bootable USB flash drives
 * spotube - [github repo](https://github.com/KRTirtho/spotube) - cross-platform extensible open-source music streaming platform
 * squoosh - [github repo](https://github.com/GoogleChromeLabs/squoosh) - image compression web app
+* ytdl - [github repo](https://github.com/ytdl-org/youtube-dl)
 
 ## privacy
 
 * aliasvault - [github repo](https://github.com/aliasvault/aliasvault) - password manager
+* briefing - [github repo](https://github.com/holtwick/briefing) - secure video chat
 * cryptomator - [github repo](https://github.com/cryptomator/cryptomator) - client-side encryption
 * deltachat-android - [github repo](https://github.com/deltachat/deltachat-android) - decentralized private messenger
 * deltachat-desktop - [github repo](https://github.com/deltachat/deltachat-desktop) - decentralized private messenger
@@ -165,6 +183,7 @@
 * secretive - [github repo](https://github.com/maxgoedjen/secretive) - SSH keys with the secure enclave #mac
 * staticrypt - [github repo](https://github.com/robinmoisson/staticrypt) - password protect a static HTML page
 * usbguard - [github repo](https://github.com/USBGuard/usbguard) - a software framework for USB device authorization policies
+* vaultwarden - [github repo](https://github.com/dani-garcia/vaultwarden) - unofficial Bitwarden server #rust
 
 ## web
 

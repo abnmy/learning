@@ -27,14 +27,12 @@ pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
 ### framework
 
 * https://github.com/django/django
-  * https://github.com/vitalik/django-ninja — API
   * https://github.com/encode/django-rest-framework — API
 
 ## Apps
 
 * https://github.com/alan-turing-institute/CleverCSV
 * https://github.com/moshi4/pyCirclize — Circular visualization
-* https://github.com/Textualize/rich — formatting in the terminal
 * https://github.com/plasma-umass/scalene — profiler
 * https://github.com/scrapy/scrapy — web scraping
 

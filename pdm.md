@@ -16,6 +16,7 @@ alternatives to notion
 * livebook - [github repo](https://github.com/livebook-dev/livebook) - interactive Elixir notebooks
 * logseq - [github repo](https://github.com/logseq/logseq) - knowledge management
 * memos - [github repo](https://github.com/usememos/memos) - self-hosted note-taking service
+* nb - [github repo](https://github.com/xwmx/nb) - cli and local web plain text note‑taking
 * notesnook - [github repo](https://github.com/streetwriters/notesnook) - e2e encrypted note taking alternative to Evernote
 * rnote - [github repo](https://github.com/flxzt/rnote) - handwritten notes
 * siyuan - [github repo](https://github.com/siyuan-note/siyuan)

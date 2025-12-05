@@ -27,6 +27,7 @@
 ## Framework Front
 
 * https://github.com/solidjs/solid - https://www.solidjs.com/
+* react - [github repo](https://github.com/facebook/react)
 * svelte - [github repo](https://github.com/sveltejs/svelte) - https://svelte.dev/
 
 ## 3D

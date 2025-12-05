@@ -1,5 +1,4 @@
 * axum - [github repo](https://github.com/tokio-rs/axum) - web application framework #tokio
-* bevy - [github repo](https://github.com/bevyengine/bevy) - data-driven game engine
 * check-if-email-exists - [github repo](https://github.com/reacherhq/check-if-email-exists) - without sending any email
 * farm - [github repo](https://github.com/farm-fe/farm) - bundler, alternative to vite
 * ferron - [github repo](https://github.com/ferronweb/ferron) - web server
