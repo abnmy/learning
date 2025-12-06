@@ -21,13 +21,13 @@
 
 * bitoduc - [github repo](https://github.com/soulaklabs/bitoduc.fr) - french words for computer concepts
 * cal.com - [github repo](https://github.com/calcom/cal.com) - alternative to calendly
-* itsycal - [text](https://github.com/sfsam/Itsycal) - calendar for your Mac's menu bar
+* itsycal - [github repo](https://github.com/sfsam/Itsycal) - calendar for your Mac's menu bar
 * fizzy - [github repo](https://github.com/basecamp/fizzy) - kanban
 * odoo - [github repo](https://github.com/odoo/odoo) - ERP
 * overleaf - [github repo](https://github.com/overleaf/overleaf) - web-based collaborative LaTeX editor
 * pyCirclize - [github repo](https://github.com/moshi4/pyCirclize) - circular visualization
 * reveal.js [github repo](https://github.com/hakimel/reveal.js) - presentation framework
-* rustdesk - [guthub repo](https://github.com/rustdesk/rustdesk) - alternative to TeamViewer
+* rustdesk - [github repo](https://github.com/rustdesk/rustdesk) - alternative to TeamViewer
 * signaturepdf - [github repo](https://github.com/24eme/signaturepdf) - PDF toolbox
 * vale - [github repo](https://github.com/errata-ai/vale)
 
@@ -60,7 +60,7 @@
 * f3 - [github repo](https://github.com/AltraMayor/f3) - tests flash cards capacity and performance
 * fclones - [github repo](https://github.com/pkolaczk/fclones) - duplicate file finder
 * fx - [github repo](https://github.com/antonmedv/fx) - JSON viewer and processor #go
-* ghostty - [github rpeo](https://github.com/ghostty-org/ghostty) - cross-platform terminal emulator that uses platform-native UI and GPU acceleration
+* ghostty - [github repo](https://github.com/ghostty-org/ghostty) - cross-platform terminal emulator that uses platform-native UI and GPU acceleration
 * glances - [github repo](https://github.com/nicolargo/glances) - system monitoring
 * himalaya - [github repo](https://github.com/pimalaya/himalaya) - email manager
 * httpie - [github repo](https://github.com/httpie/cli) - HTTP client
@@ -222,7 +222,7 @@
 * librefox - [github repo](https://github.com/intika/Librefox) - Firefox privacy enhancements #obsolete?
 * molly - [github repo](https://github.com/mollyim/mollyim-android) - signal fork by signal devs
 * onetun - [github repo](https://github.com/aramperes/onetun) - user space WireGuard port-forward #rust
-* portmaster - [text](https://github.com/safing/portmaster) - firewall
+* portmaster - [github repo](https://github.com/safing/portmaster) - firewall
 * PyBitmessage - [github repo](https://github.com/Bitmessage/PyBitmessage) - client for Bitmessage: a p2p encrypted decentralised communication protocol
 * quiet - [github repo](https://github.com/TryQuiet/quiet) - encrypted p2p team chat #tor
 * secretive - [github repo](https://github.com/maxgoedjen/secretive) - SSH keys with the secure enclave #mac
