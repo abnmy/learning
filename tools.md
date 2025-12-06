@@ -15,9 +15,11 @@
 * librechat - [github repo](https://github.com/danny-avila/LibreChat) - alternative to chatgpt
 * magika - [github repo](https://github.com/google/magika) - file content types detection
 * spacy - [github repo](https://github.com/explosion/spaCy) - advanced natural language processing #python
+* xva-synth - [github repo](https://github.com/DanRuta/xVA-Synth) - speech synthesis #deprecated?
 
 ## administrative tasks
 
+* bitoduc - [github repo](https://github.com/soulaklabs/bitoduc.fr) - french words for computer concepts
 * cal.com - [github repo](https://github.com/calcom/cal.com) - alternative to calendly
 * itsycal - [text](https://github.com/sfsam/Itsycal) - calendar for your Mac's menu bar
 * fizzy - [github repo](https://github.com/basecamp/fizzy) - kanban
@@ -37,6 +39,7 @@
 * newpipe - [github repo](https://github.com/TeamNewPipe/NewPipe) - lightweight streaming front-end
 * universal android debloater - [github repo](https://github.com/0x192/universal-android-debloater) - #obsolete
 * weather master - [github repo](https://github.com/PranshulGG/WeatherMaster)
+* openscan - [github repo](https://github.com/ethereal-developers/OpenScan) - #obsolete
 
 ## automation
 
@@ -66,6 +69,7 @@
 * magic-wormhole - [github repo](https://github.com/magic-wormhole/magic-wormhole) - transfer app
 * norminette - [github repo](https://github.com/42school/norminette) - C files linter
 * resh - [github repo](https://github.com/curusarn/resh) - contextual shell history #obsolete
+* rga - [github repo](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 * shellcheck - [github repo](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts
 * sq - [github repo](https://github.com/neilotoole/sq) - like jq for SQL
 * terminals-are-sexy - [github repo](https://github.com/k4m4/terminals-are-sexy) - curated list
@@ -106,21 +110,31 @@
 
 * asciiflow - [github repo](https://github.com/lewish/asciiflow) - drawing ASCII diagrams
 * aws lambda adapter - [github repo](https://github.com/awslabs/aws-lambda-web-adapter)
+* black - [github repo](https://github.com/psf/black) - #python code formatter
 * brew - [github repo](https://github.com/Homebrew/brew) - package manager
 * cargo-crev - [github repo](https://github.com/crev-dev/cargo-crev) - code review system for the cargo #rust package manager
+* cleverCSV - [github repo](https://github.com/alan-turing-institute/CleverCSV) - drop-in replacement for #python csv module
 * cosmopolitan - [github repo](https://github.com/jart/cosmopolitan) - a POSIX-approved polyglot format
 * delta - [github repo](https://github.com/dandavison/delta) - syntax-highlighting pager for git, diff, grep
 * django - [github repo](https://github.com/django/django) - fullstack web framework #python
+* django ordered model - [github repo](https://github.com/django-ordered-model/django-ordered-model)
+* django silk [github repo](https://github.com/jazzband/django-silk) - profiler
 * dragonfly - [github repo](https://github.com/dragonflydb/dragonfly) - alternative to redis
 * dream - [github repo](https://github.com/camlworks/dream) - OCaml web framework
+* filepond - [github repo](https://github.com/pqina/filepond) - file upload library #javascript
+* flutter - [github repo](https://github.com/flutter/flutter) - SDK for crafting mobile, web, and desktop app #dart
 * fluxsort - [github repo](https://github.com/scandum/fluxsort) - branchless stable quicksort/mergesort hybrid
 * git - [github repo](https://github.com/git/git)
+* hack - [github repo](https://github.com/source-foundry/Hack) - font
 * hermes - [github repo](https://github.com/facebook/hermes) - engine for react native apps
+* hyperapp - [github repo](https://github.com/jorgebucaran/hyperapp) - front framework #deprecated
+* ihp - [github repo](https://github.com/digitallyinduced/ihp) - web framefork #haskell
 * ImHex - [github repo](https://github.com/WerWolv/ImHex) - hex editor
 * ipython - [github repo](https://github.com/ipython/ipython) - a command shell for interactive computing
 * lost-pixel - [github repo](https://github.com/lost-pixel/lost-pixel) - visual regression testing tool
 * magic-trace - [github repo](https://github.com/janestreet/magic-trace) - collects and displays high-resolution traces
 * minify - [github repo](https://github.com/tdewolff/minify) - minifiers for web formats #go
+* monolinux - [github repo](https://github.com/eerimoq/monolinux) - #obsolete?
 * more-itertools - [github repo](https://github.com/more-itertools/more-itertools) - routines for operating on iterables, beyond itertools #python
 * mvpcss - [github repo](https://github.com/andybrewer/mvp) - minimalist classless css stylesheet
 * navi - [github repo](https://github.com/denisidoro/navi) - interactive cheatsheet
@@ -128,15 +142,19 @@
 * plasmo - [github repo](https://github.com/PlasmoHQ/plasmo) - extension framework
 * playwright - [github repo](https://github.com/microsoft/playwright) - framework for web testing and automation
 * prettier - [github repo](https://github.com/prettier/prettier) - an opinionated code formatter
+* pyOxidizer - [github repo](https://github.com/indygreg/PyOxidizer) - Python application packaging #deprecated
 * pytest - [github repo](https://github.com/pytest-dev/pytest)
-* PyWebIO - [github repo](https://github.com/pywebio/PyWebIO) - interactive web app in script way
+* pyWebIO - [github repo](https://github.com/pywebio/PyWebIO) - interactive web app in script way
 * rich - [github repo](https://github.com/Textualize/rich) - beautiful formatting in the terminal
 * simdjson - [github repo](https://github.com/simdjson/simdjson) - JSON parser
+* solid - [github repo](https://github.com/solidjs/solid) - light front framework
 * tailwindcss - [github repo](https://github.com/tailwindlabs/tailwindcss) - css framework
 * tqdm - [github repo](https://github.com/tqdm/tqdm) - cli progress bar
 * unison - [github repo](https://github.com/unisonweb/unison) - functional language
 * sokrates - [github repo](https://github.com/zeljkoobrenovic/sokrates) - polyglot source code examination tool
 * super-linter - [github repo](https://github.com/super-linter/super-linter) - multiple linters to run as a GitHub Action
+* textures - [github repo](https://github.com/riccardoscalco/textures) - creating SVG patterns #deprecated
+* uplot - [github repo](https://github.com/leeoniya/uPlot) - chart for time series, lines, areas, ohlc and bars
 * v - [github repo](https://github.com/vlang/v)
 * WebRTC-Experiment - [github repo](https://github.com/muaz-khan/WebRTC-Experiment) - webRTC demos
 
@@ -169,6 +187,7 @@
 * fish-speech - [github repo](https://github.com/fishaudio/fish-speech) - Text-to-Speech models
 * fooyin - [github repo](https://github.com/fooyin/fooyin) - music player #foobar
 * handbrake - [github repo](https://github.com/HandBrake/HandBrake) - video transcoder
+* imgdiff - [github repo](https://github.com/n7olkachev/imgdiff) - #deprecated?
 * jellyfin - [github repo](https://github.com/jellyfin/jellyfin) - managing and streaming your media, alternative to Plex
 * jpeg.rocks - [github repo](https://github.com/neslinesli93/jpeg.rocks) - jpeg optimizer
 * metastream - [github repo](https://github.com/samuelmaddock/metastream) - watch streaming media with friends
@@ -183,12 +202,14 @@
 * rufus - [github repo](https://github.com/pbatard/rufus) - create bootable USB flash drives
 * spotube - [github repo](https://github.com/KRTirtho/spotube) - cross-platform extensible open-source music streaming platform
 * squoosh - [github repo](https://github.com/GoogleChromeLabs/squoosh) - image compression web app
+* staxrip - [github repo](https://github.com/staxrip/staxrip) - video encoder for #windows
 * xbmc - [github repo](https://github.com/xbmc/xbmc) - media center
 * ytdl - [github repo](https://github.com/ytdl-org/youtube-dl)
 
 ## privacy/security
 
 * aliasvault - [github repo](https://github.com/aliasvault/aliasvault) - password manager
+* berty - [github repo](https://github.com/berty/berty) - p2p messaging app #deprecated?
 * briefing - [github repo](https://github.com/holtwick/briefing) - secure video chat
 * cryptomator - [github repo](https://github.com/cryptomator/cryptomator) - client-side encryption
 * databunker - [github repo](https://github.com/securitybunker/databunker)
@@ -198,6 +219,7 @@
 * filepizza - [github repo](https://github.com/kern/filepizza) - p2p file transfer in browser
 * frigate - [github repo](https://github.com/blakeblackshear/frigate) - Network Video Recording with realtime local object detection for IP cameras
 * keepassxc - [github repo](https://github.com/keepassxreboot/keepassxc) - community-driven port of keepass
+* librefox - [github repo](https://github.com/intika/Librefox) - Firefox privacy enhancements #obsolete?
 * molly - [github repo](https://github.com/mollyim/mollyim-android) - signal fork by signal devs
 * onetun - [github repo](https://github.com/aramperes/onetun) - user space WireGuard port-forward #rust
 * portmaster - [text](https://github.com/safing/portmaster) - firewall
@@ -210,20 +232,25 @@
 * usbguard - [github repo](https://github.com/USBGuard/usbguard) - a software framework for USB device authorization policies
 * usbkill - [github repo](https://github.com/hephaest0s/usbkill) - usb detection
 * vaultwarden - [github repo](https://github.com/dani-garcia/vaultwarden) - unofficial Bitwarden server #rust
+* zuccnet - [github repo](https://github.com/tomquirk/zuccnet) - e2e encrypted Facebook messenger #obsolete
 
 ## web
 
 * backendlore - [github repo](https://github.com/fpereiro/backendlore) - opinionated backend manifest
 * biome - [github repo](https://github.com/biomejs/biome) - toolchain for web projects #rust
+* cyberchef - [github repo](https://github.com/gchq/CyberChef) - cyber Swiss army knife
 * fast stream - [github repo](https://github.com/Andrews54757/FastStream) - video player replacement #firefox
 * floorp - [github repo](https://github.com/Floorp-Projects/Floorp) - #firefox
 * gokapi - [github repo](https://github.com/Forceu/Gokapi) - firefox send alternative
 * instant.io - [github repo](https://github.com/webtorrent/instant.io) - file transfer over WebTorrent #beta #wormhole
 * ladybird - [github repo](https://github.com/LadybirdBrowser/ladybird) - independent web browser using a novel engine
 * manifest - [github repo](https://github.com/mnfst/manifest) - one-file backend
+* perfect-edition - [github repo](https://github.com/robinsloan/perfect-edition) - responsive web e-book template
 * pines - [github repo](https://github.com/thedevdojo/pines) - pines UI library
 * regex-vis - [github repo](https://github.com/Bowen7/regex-vis) - regex visualizer and editor
+* sharedrop - [github repo](https://github.com/ShareDropio/sharedrop) - p2p file transfer, alternative to airdrop #deprecated
 * signoz - [github repo](https://github.com/SigNoz/signoz) - #datadog #monitoring
+* snapdrop - [github repo](https://github.com/SnapDrop/snapdrop) - pwa for local file sharing, , alternative to airdrop #deprecated
 * sonic - [github repo](https://github.com/valeriansaliou/sonic) - alternative to Elasticsearch
 * speedtest tracker - [github repo](https://github.com/alexjustesen/speedtest-tracker) - performance and uptime your ISP #monitoring
 * spin - [github repo](https://github.com/spinframework/spin) - a framework for microservices with WebAssembly

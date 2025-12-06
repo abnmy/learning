@@ -2,7 +2,6 @@
 
 ## Dev Tools
 
-* https://github.com/psf/black — Code Formatter
 * https://github.com/more-itertools/more-itertools
 * https://github.com/PyO3/pyo3 — Rust bindings
 * https://github.com/pytest-dev/pytest
@@ -31,7 +30,6 @@ pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
 
 ## Apps
 
-* https://github.com/alan-turing-institute/CleverCSV
 * https://github.com/moshi4/pyCirclize — Circular visualization
 * https://github.com/plasma-umass/scalene — profiler
 * https://github.com/scrapy/scrapy — web scraping
