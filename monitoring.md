@@ -12,10 +12,33 @@
 
 ## Grafana / Loki
 
-### Relative time ranges from > to
+### Relative time ranges: from date to date
 
-Today morning: `now/d+2h` > `now/d-17h` = today:0h+2h > today:24h-17h = today between 2h > 7h
+#### today morning
 
-Yestarday evening: `now-1d/d+20h` > `now-1d/d-1h` = today-1d:0h+20h > today-1d:24h-1h = yesterday between 20h > 23h
+from `now/d+2h` to `now/d-17h`, show today between 02:00 and 07:00
 
-Past week: `now - 1w/w` > `now - 1w/w`
+#### yesterday evening
+
+from `now-1d/d+20h` to `now-1d/d-1h`: show yesterday between 20:00 to 23:00
+
+#### past week
+
+from `now - 1w/w` to `now - 1w/w`
+
+## macOS
+
+monitor_temp.sh
+
+```sh
+#!/bin/bash
+while true; do
+  sudo powermetrics --samplers smc | grep -i "CPU die temperature" >> ~/cpu_temps.log
+  sleep 60
+done
+```
+
+```sh
+chmod +x monitor_temp.sh
+nohup ./monitor_temp.sh &
+```
