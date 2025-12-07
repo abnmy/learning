@@ -37,3 +37,13 @@
 ## UI
 
 * https://github.com/konvajs/konva 10.0.12 2025-11-21 an HTML5 Canvas framework
+
+## Example
+
+```js
+n = Math.trunc(+readline() / 2.7)
+l = readline().split(' ').map(Number)
+m = Math.max(...l.slice(0, n))
+o = l.slice(n).findIndex(z => z>m)
+console.log(o === -1 ? -1 : o+n)
+```

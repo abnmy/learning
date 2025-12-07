@@ -1,5 +1,16 @@
 # Database
 
+* [firebase](https://firebase.google.com/)
+* [supabase](https://supabase.com/)
+* https://www.youtube.com/watch?v=VX6KzpjaPp8
+* https://www.youtube.com/watch?v=lxVzLAHnPOE #numeric
+* https://www.youtube.com/watch?v=a-K2C3sf1_Q
+* https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year
+* https://news.ycombinator.com/item?id=29858083
+* https://www.dbdesigner.net/
+
+## GitHub
+
 * beekeeper studio - [github repo](https://github.com/beekeeper-studio/beekeeper-studio) - SQL client
 * dice - [github repo](https://github.com/DiceDB/dice) - in-memory database #go !archived
 * dolt - [github repo](https://github.com/dolthub/dolt) - git for data
