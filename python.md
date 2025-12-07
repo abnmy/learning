@@ -5,23 +5,23 @@
 * https://github.com/more-itertools/more-itertools
 * https://github.com/PyO3/pyo3 — Rust bindings
 * https://github.com/pytest-dev/pytest
-* sqlalchemy - [github repo](https://github.com/sqlalchemy/sqlalchemy) - ORM
-* seleniumbase - [github repo](https://github.com/seleniumbase/SeleniumBase) - a browser automation framework
+* sqlalchemy - [github](https://github.com/sqlalchemy/sqlalchemy) - ORM
+* seleniumbase - [github](https://github.com/seleniumbase/SeleniumBase) - a browser automation framework
 
 ### install/venv
 
 pip secure: https://pip.pypa.io/en/stable/topics/secure-installs/
 
-* asdf - [github repo](https://github.com/asdf-vm/asdf) - multiple runtime versions manager
-* pipenv - [github repo](https://github.com/pypa/pipenv) - virtualenv manager
-* poetry - [github repo](https://github.com/python-poetry/poetry) - declare, manage and install dependencies
+* asdf - [github](https://github.com/asdf-vm/asdf) - multiple runtime versions manager
+* pipenv - [github](https://github.com/pypa/pipenv) - virtualenv manager
+* poetry - [github](https://github.com/python-poetry/poetry) - declare, manage and install dependencies
 
 ### typing — https://docs.python.org/3/library/typing.html
 
-* mypy - [github repo](https://github.com/python/mypy)
-* pyright - [github repo](https://github.com/microsoft/pyright)
-* pyrefly - [github repo](https://github.com/facebook/pyrefly) - python type checker #rust replacement for pyre-check
-* ruff - [github repo](https://github.com/astral-sh/ruff) - linter and code formatter #rust
+* mypy - [github](https://github.com/python/mypy)
+* pyright - [github](https://github.com/microsoft/pyright)
+* pyrefly - [github](https://github.com/facebook/pyrefly) - python type checker #rust replacement for pyre-check
+* ruff - [github](https://github.com/astral-sh/ruff) - linter and code formatter #rust
 
 ### framework
 
