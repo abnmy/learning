@@ -182,7 +182,7 @@
 * beets - [github](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 * bitmapfonts - [github](https://github.com/ianhan/BitmapFonts) - collection
 * blackcandy - [github](https://github.com/blackcandy-org/blackcandy) - self hosted music streaming server
-* dim - [github](https://github.com/Dusk-Labs/dim) - media manager #rust
+* dim - [github](https://github.com/Dusk-Labs/dim) - media manager #rust #obsolete
 * dopamine - [github](https://github.com/digimezzo/dopamine) - audio player
 * fish-speech - [github](https://github.com/fishaudio/fish-speech) - Text-to-Speech models
 * fooyin - [github](https://github.com/fooyin/fooyin) - music player #foobar
