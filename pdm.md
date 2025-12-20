@@ -1,5 +1,7 @@
 # Personal Data Management
 
+https://noteapps.info/
+
 alternatives to notion
 
 * answer - [github](https://github.com/apache/answer) - alternative to Stackoverflow
