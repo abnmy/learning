@@ -6,7 +6,7 @@ alternatives to notion
 * appflowy - [github](https://github.com/AppFlowy-IO/AppFlowy) - collaborative workspace
 * cryptpad - [github](https://github.com/cryptpad/cryptpad) - collaborative office suite, e2e encrypted
 * curio - [github](https://github.com/skyline-apps/curio) - read-later #personal
-* dendron - [github](https://github.com/dendronhq/dendron) - ocal-first, markdown-based, note-taking tool
+* dendron - [github](https://github.com/dendronhq/dendron) - local-first, markdown-based, note-taking tool #obsolete
 * docmost - [github](https://github.com/docmost/docmost)
 * docs - [github](https://github.com/suitenumerique/docs) - note, wiki and doc platform #django
 * eidos - [github](https://github.com/mayneyao/eidos)
