@@ -4,6 +4,7 @@
 * caddy - [github](https://github.com/caddyserver/caddy) - server
 * certbot - [github](https://github.com/certbot/certbot) - client that fetches a certificate from Let’s Encrypt
 * colima - [github](https://github.com/abiosoft/colima) - container runtimes
+* dagger - [github](https://github.com/dagger/dagger) - composable workflows
 * diagrams - [github](https://github.com/mingrammer/diagrams) - diagram as Code for prototyping cloud system architectures
 * dive - [github](https://github.com/wagoodman/dive) - docker image analyzer
 * docker-baseimage-gui - [github](https://github.com/jlesage/docker-baseimage-gui)
@@ -24,10 +25,14 @@
 * sandboxie - [github](https://github.com/sandboxie-plus/Sandboxie) - sandbox-based isolation
 * system-design-primer - [github](https://github.com/donnemartin/system-design-primer) - design large-scale systems
 * tofu - [github](https://github.com/opentofu/opentofu) - Infrastructure as Code
+  * https://www.gruntwork.io/blog/make-the-switch-to-opentofu
 * trivy - [github](https://github.com/aquasecurity/trivy) - security scanner
 * webvm - [github](https://github.com/leaningtech/webvm) - serverless virtual environment running fully client-side
 
-## Docker
+## Tutos
+
+* 2024 - [k8s vs Google Cloud Run](https://cloud-computing.developpez.com/actu/365327/Kubernetes-Je-n-avais-pas-besoin-de-Kubernetes-vous-n-en-avez-probablement-pas-besoin-non-plus-affirme-Ben-Houston-Faut-il-privilegier-des-solutions-plus-agiles-et-rentables-comme-Google-Cloud-Run/)
+* 2020 - [Continuous Integration definition](https://wellfound.com/blog/what-you-need-to-know-about-continuous-integration?utm_source=platform-newsletter&utm_medium=email&utm_campaign=platform-newsletter-103119&alla[source]=platform)
 
 ### resources
 
@@ -46,3 +51,23 @@
 ### Dockerfile
 
 * https://github.com/adrianhajdin/docker-course/blob/main/react-docker/Dockerfile
+
+## xx
+
+* https://blog.patricktriest.com/host-webapps-free/
+* https://render.com/
+* https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless/
+* https://hamel.dev/blog/posts/dokku/
+* https://ona.com/
+* https://www.intigriti.com/researchers/blog/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide
+* https://www.presse-citron.net/hebergeur/gratuit/
+* https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/
+* https://www.freecodecamp.org/news/lessons-learned-from-deploying-my-first-full-stack-web-application-34f94ec0a286/
+* https://www.markozivanovic.com/screw-it-ill-host-it-myself/
+* https://blog.val.town/blog/migrating-from-supabase
+* https://cprimozic.net/blog/my-selfhosted-websites-architecture/
+* https://www.netlify.com/pricing/
+* https://chsasank.com/outline-self-hosted-wiki.html
+* https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/
+* https://hassenchaieb.com/aws-good-parts/
+* https://www.pikapods.com/
