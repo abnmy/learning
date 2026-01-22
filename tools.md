@@ -145,6 +145,7 @@
 * pyOxidizer - [github](https://github.com/indygreg/PyOxidizer) - Python application packaging #deprecated
 * pytest - [github](https://github.com/pytest-dev/pytest)
 * pyWebIO - [github](https://github.com/pywebio/PyWebIO) - interactive web app in script way
+* radicle - [website](https://radicle.xyz/) - p2p git
 * rich - [github](https://github.com/Textualize/rich) - beautiful formatting in the terminal
 * simdjson - [github](https://github.com/simdjson/simdjson) - JSON parser
 * solid - [github](https://github.com/solidjs/solid) - light front framework
