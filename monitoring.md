@@ -34,6 +34,7 @@ monitor_temp.sh
 #!/bin/bash
 while true; do
   sudo powermetrics --samplers smc | grep -i "CPU die temperature" >> ~/cpu_temps.log
+  #sudo powermetrics --samplers smc -i1 -n1
   sleep 60
 done
 ```
