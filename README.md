@@ -1,35 +1,44 @@
-* https://3perf.com/talks/web-perf-101/
-* https://advent.sveltesociety.dev/#challenges
-* https://app.codesignal.com/login
-* https://app.pluralsight.com/library/
-* https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12%22
+# Code
+
+## Learning
+
 * https://c4model.com/
-* https://codecombat.com/play/
-* https://coderbyte.com/
-* https://defendtheweb.net/
-* https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h
-* https://exercism.org/
-  * https://exercism.org/tracks/elixir/concepts/basics
-* https://henrikwarne.com/2020/03/22/secure-by-design/
-* https://hyperskill.org/
-* https://interviewing.io/
-* https://lost-at-sql.therobinlord.com/
-* https://nandgame.com/
-* https://prologin.org/
-* https://py.checkio.org/
-* https://rosettacode.org/wiki/Rosetta_Code
-* https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/
-* https://subscription.packtpub.com/owned
-* https://tryhackme.com/
-* https://www.c0d3.com/
-* https://www.codeavengers.com/
-* https://www.codewars.com/
-* https://www.codingame.com/start/
-* https://www.datacamp.com/
 * https://www.docker.com/play-with-docker/
 * https://www.geeksforgeeks.org/system-design/system-design-tutorial/
-* https://www.hackerrank.com/
-* https://www.maizure.org/projects/printf/index.html
 * https://www.masterclass.com/
-* https://www.pluralsight.com/
+* https://subscription.packtpub.com/owned
+* https://app.pluralsight.com/library/free
+* https://rosettacode.org/wiki/Rosetta_Code
 * https://www.udemy.com/
+
+## Training
+
+* https://advent.sveltesociety.dev/
+* https://codecombat.com/play/
+* https://codesignal.com/learn
+* https://www.codewars.com/
+* https://www.codingame.com/
+* https://exercism.org/
+* https://www.hackerrank.com/
+* https://py.checkio.org/
+* https://tryhackme.com/
+
+## Case study
+
+* https://3perf.com/talks/web-perf-101/
+* https://www.maizure.org/projects/printf/index.html
+* https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/
+* https://henrikwarne.com/2020/03/22/secure-by-design/
+
+## To be classified
+
+* https://apps.apple.com/us/app/swift-playground/id1496833156
+* https://www.codeavengers.com/
+* https://www.datacamp.com/
+* https://interviewing.io/
+* https://nandgame.com/
+* https://prologin.org/
+* https://lost-at-sql.therobinlord.com/
+* https://hyperskill.org/ #JetBrains
+* https://defendtheweb.net/ #obsolete
+* https://www.c0d3.com/ #obsolete
