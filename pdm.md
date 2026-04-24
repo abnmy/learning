@@ -1,11 +1,12 @@
 # Personal Data Management
 
-https://noteapps.info/
+compare note taking apps : https://noteapps.info/
 
 alternatives to notion
 
 * answer - [github](https://github.com/apache/answer) - alternative to Stackoverflow
 * appflowy - [github](https://github.com/AppFlowy-IO/AppFlowy) - collaborative workspace
+* atomic - [github](https://github.com/kenforthewin/atomic) - self hosted atomic notes with AI #rust
 * cryptpad - [github](https://github.com/cryptpad/cryptpad) - collaborative office suite, e2e encrypted
 * curio - [github](https://github.com/skyline-apps/curio) - read-later #personal
 * dendron - [github](https://github.com/dendronhq/dendron) - local-first, markdown-based, note-taking tool #obsolete
